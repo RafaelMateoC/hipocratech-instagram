@@ -14,14 +14,36 @@ siguiendo la agenda del 19 de agosto al 30 de noviembre de 2026.
 | Publicables automáticamente hoy | **43** — 21 carruseles, 21 reels, 1 post único |
 | Sin arte | **61** (todo octubre y noviembre) |
 
-Los 21 reels **no traían video**: solo los frames PNG y el guion. Los MP4 se
-generaron desde esos frames respetando la duración y los cortes que define cada
-guion. Son un sustituto funcional, no el reel que el guion describe — varios
-piden *screen recordings* del producto que no existen como material.
+Los 21 reels llevan su **MP4 producido** (`REEL.mp4` en la carpeta de cada
+fecha), 1080×1920 a 30 fps. El publicador usa ese video tal cual; solo si
+faltara lo armaría desde los frames del guion, avisando cuando lo hace.
 
 Octubre y noviembre están marcados «✕ no producido» en la propia agenda. Esos
 61 días se publicarán solos en cuanto exista el arte: basta con dejar la carpeta
 con el mismo formato y volver a construir el plan.
+
+### Los reels salen sin música, y eso es una decisión, no un descuido
+
+Los MP4 no llevan audio. El material que los acompaña recomienda ponerles
+música desde la biblioteca de Instagram al subirlos, porque el audio nativo
+ayuda al alcance y el silencio lo penaliza.
+
+**Eso no se puede hacer por API.** Instagram no permite adjuntar audio con
+licencia desde su biblioteca a través de la API de publicación: la música
+tiene que venir incrustada en el archivo antes de subirlo. Publicar un reel
+automáticamente significa publicarlo mudo.
+
+De modo que en los días de reel hay que elegir:
+
+| | Alcance | Trabajo |
+|---|---|---|
+| Publicar por API (lo actual) | penalizado por el silencio | ninguno |
+| Subirlo a mano desde la app con audio de la biblioteca | el que busca la estrategia | unos minutos, en el momento |
+| Incrustar música libre de derechos en el MP4 | intermedio, sin audio de tendencia | una vez, en producción |
+
+Son 21 de los 43 días. Si prefieres la segunda vía, quita el `listo` de los
+reels en el plan y el sistema los reportará como pendientes cada mañana en vez
+de publicarlos.
 
 ---
 
