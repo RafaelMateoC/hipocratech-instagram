@@ -14,6 +14,10 @@ on:
         description: "Simular sin publicar"
         type: boolean
         default: true
+      solo_historia:
+        description: "Publicar solo la historia pendiente de ese dia"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -48,6 +52,7 @@ jobs:
           URL_MEDIOS: ${{ vars.URL_MEDIOS }}
           FECHA: ${{ inputs.fecha }}
           SIMULAR: ${{ inputs.simular == true && '1' || '' }}
+          SOLO_HISTORIA: ${{ inputs.solo_historia == true && '1' || '' }}
         run: |
           set +e
           python publicador/publicar.py | tee salida.txt
