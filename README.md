@@ -99,29 +99,31 @@ python herramientas/poner_audio.py --pista audio/tu-pista.mp3
 publicaciones de imagen — solo se puede en la app, a mano. Lo que sí lleva
 audio es la historia de ese día, que es un video.
 
-### Las historias
+### Las historias van a mano, y no es opcional
 
-Cada publicación se comparte a historias automáticamente, justo después de que
-el feed salga bien. Si la historia falla, el feed queda publicado igual y se
-avisa: nunca se reintenta la publicación principal por un fallo de la historia.
+La historia que enlaza a la publicación —esa que al tocarla te lleva al post—
+**no se puede publicar por API**. Meta no permite que ninguna herramienta
+externa publique historias con elementos interactivos: ni el sticker de la
+publicación, ni el de enlace, ni menciones, ni encuestas. Solo existe dentro
+de la app.
 
-- **Días de reel** — la historia es el propio reel
-- **El resto** — un video de 6 segundos con la primera lámina centrada sobre el
-  color de la pieza, con el fondo de audio
+Se probó publicar una historia automática con el mismo arte. Funciona, pero es
+una historia muda que no lleva a ningún lado, y compite con la que tú compartes
+a mano. Se quitó.
 
-Dos límites que conviene tener claros, porque tu protocolo los menciona:
+Lo que hace el sistema es dejártelo servido: al terminar de publicar imprime el
+enlace de la publicación y los pasos, para que lo remates en la app dentro de
+la ventana de 15 minutos que marca el protocolo.
 
-- **No es «compartir la publicación» con el sticker que enlaza al post.** Eso
-  solo existe dentro de la app. Por API se publica una historia nueva con el
-  mismo material, sin enlace al feed.
-- **No se pueden añadir stickers de encuesta ni de pregunta.** Si los quieres
-  —y tu protocolo los pide en los primeros 15 minutos—, esa historia hay que
-  ponerla a mano.
+```
+PUBLICADO · media 18206804836362343
+  https://www.instagram.com/p/DcO8prZn74g/
 
-Se regeneran con:
-
-```bash
-python herramientas/preparar_historias.py
+AHORA, DESDE LA APP · la historia con enlace al post solo se puede
+hacer a mano; la API no publica stickers ni enlaces.
+  1. abre la publicacion
+  2. avion de papel > Anadir a la historia
+  3. ponle el sticker de encuesta o pregunta antes de compartir
 ```
 
 ## Puesta en marcha

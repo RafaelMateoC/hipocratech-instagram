@@ -101,11 +101,6 @@ def publicar_item(ig, item, base, simular):
             print(f"    - {u}")
         if portada:
             print(f"    portada: {portada}")
-        rel_h = item["medios"][0] if item["formato"] == "reel" else f"medios/{item['carpeta']}/historia.mp4"
-        historia = url_de(base, rel_h)
-        pro_h, _ = verificar_medios([historia])
-        print(f"  historia  : {'accesible' if not pro_h else 'NO ACCESIBLE'}")
-        print(f"    - {historia}")
         return None, None
 
     if item["formato"] == "carrusel":
@@ -128,27 +123,6 @@ def publicar_item(ig, item, base, simular):
     ig.esperar(contenedor, log=lambda m: print(m, flush=True))
     media_id = ig.publicar(contenedor)
     return media_id, ig.permalink(media_id)
-
-
-def compartir_historia(ig, item, base, log=print):
-    """Publica la historia despues de que el feed haya salido bien.
-
-    Si esto falla no se toca el resultado del feed: la publicacion principal ya
-    esta arriba y no se va a repetir por un fallo de la historia.
-    """
-    # En los reels la historia es el mismo video; en el resto, el de 6 segundos.
-    rel = item["medios"][0] if item["formato"] == "reel" else f"medios/{item['carpeta']}/historia.mp4"
-    url = url_de(base, rel)
-
-    problemas, avisos = verificar_medios([url])
-    if problemas:
-        raise ErrorInstagram(problemas[0])
-    for a in avisos:
-        log(f"  AVISO · {a}")
-
-    contenedor = ig.contenedor_historia(video_url=url)
-    ig.esperar(contenedor, limite=300, intervalo=10, log=lambda m: log(f"  {m}"))
-    return ig.publicar(contenedor)
 
 
 def main():
@@ -187,18 +161,10 @@ def main():
 
     estado = cargar_estado()
     ya = estado.get(fecha, {})
-    # Reintento de historia: el feed ya salio pero su historia no. Sirve para
-    # los dias publicados antes de que existieran las historias, y como
-    # segunda oportunidad si una historia falla.
-    pendiente = bool(ya.get('media_id')) and not ya.get('historia_id')
-    solo_historia = os.environ.get('SOLO_HISTORIA') == '1' and pendiente
-
-    if ya.get('media_id') and not solo_historia:
+    if ya.get('media_id'):
         print()
         print(f"Ya se publico el {ya['publicado_en']} "
               f"(media {ya['media_id']}). No se repite.")
-        if pendiente:
-            print('Su historia sigue pendiente: relanza con SOLO_HISTORIA=1.')
         return 0
 
     # El cliente se crea tambien al simular: sirve para comprobar el token sin
@@ -219,22 +185,6 @@ def main():
     elif simular:
         print("Sin credenciales: solo se verifican los medios.")
 
-    if solo_historia:
-        print()
-        print(f"Solo historia · el feed ya salio ({ya['media_id']})")
-        if simular:
-            print('SIMULACION · no se llama a la API')
-            return 0
-        try:
-            historia_id = compartir_historia(ig, item, base)
-        except ErrorInstagram as e:
-            print(f'  la historia no salio · {e}')
-            return 1
-        estado[fecha]['historia_id'] = historia_id
-        guardar_estado(estado)
-        print(f'  historia publicada · {historia_id}')
-        return 0
-
     try:
         media_id, permalink = publicar_item(ig, item, base, simular)
     except ErrorInstagram as e:
@@ -253,23 +203,18 @@ def main():
         "publicado_en": datetime.now().astimezone().isoformat(timespec="seconds"),
     }
     guardar_estado(estado)
-
     print()
-    print("Compartiendo a historias…")
-    try:
-        historia_id = compartir_historia(ig, item, base)
-        estado[fecha]["historia_id"] = historia_id
-        guardar_estado(estado)
-        print(f"  historia publicada · {historia_id}")
-    except ErrorInstagram as e:
-        estado[fecha]["historia_error"] = str(e)
-        guardar_estado(estado)
-        print(f"  la historia no salio · {e}")
-        print("  el feed si esta publicado; la historia se puede subir a mano")
-
-    print(f"\nPUBLICADO · media {media_id}")
+    print(f'PUBLICADO · media {media_id}')
     if permalink:
-        print(f"  {permalink}")
+        print(f'  {permalink}')
+    print()
+    print('AHORA, DESDE LA APP · la historia con enlace al post solo se puede')
+    print('hacer a mano; la API no publica stickers ni enlaces.')
+    print('  1. abre la publicacion')
+    print('  2. avion de papel > Anadir a la historia')
+    print('  3. ponle el sticker de encuesta o pregunta antes de compartir')
+    print()
+    print('El resto del protocolo:')
     print("\nRecordatorio del protocolo:")
     print("  · primeros 15 min: compartir a stories con encuesta o pregunta")
     print("  · primeros 60 min: responder todos los comentarios con una pregunta")
