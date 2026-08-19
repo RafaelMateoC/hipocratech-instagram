@@ -80,9 +80,21 @@ En GitHub, en el repositorio: **Settings → Secrets and variables → Actions**
 | Secret | `IG_TOKEN` | tu token |
 | Secret | `IG_APP_ID` | *(opcional)* para el aviso de caducidad |
 | Secret | `IG_APP_SECRET` | *(opcional)* para el aviso de caducidad |
-| Variable | `URL_MEDIOS` | `https://raw.githubusercontent.com/USUARIO/REPO/main` |
+| Variable | `URL_MEDIOS` | `https://USUARIO.github.io/REPO` |
 
-### 3. Primera prueba, sin publicar nada
+### 3. Activar GitHub Pages
+
+**Settings → Pages → Source: Deploy from a branch → `main` / `/ (root)`**
+
+Instagram no recibe los archivos: los **descarga** de una URL publica. Pages es
+la que sirve los `.mp4` con el tipo `video/mp4` correcto.
+
+> No uses `raw.githubusercontent.com` para los reels. Lo comprobe: sirve los
+> videos como `application/octet-stream`, y ese es el motivo tipico de un reel
+> que se queda atascado en `ERROR` al procesarse. Para las imagenes si funciona
+> (`image/jpeg`), pero conviene una sola URL para todo.
+
+### 4. Primera prueba, sin publicar nada
 
 En la pestaña **Actions → Publicar en Instagram → Run workflow**, deja
 `simular` en `true` y pon una fecha. Verifica que las URLs de los medios
@@ -122,6 +134,9 @@ python herramientas/construir_plan.py && python herramientas/preparar_medios.py
 ## Notas técnicas
 
 - Instagram **solo acepta JPEG** por `image_url`; por eso las PNG se convierten.
+- Los medios se sirven por GitHub Pages, no por `raw.githubusercontent.com`:
+  este ultimo entrega los `.mp4` como `application/octet-stream`. El publicador
+  avisa si detecta ese caso antes de intentar el reel.
 - La proporción del arte debe quedar entre 4:5 y 1.91:1. Las 1080×1350 dan
   exactamente 4:5, el límite del rango: no las recortes más.
 - Límite de la API: 100 publicaciones por 24 horas. Aquí se usa 1.

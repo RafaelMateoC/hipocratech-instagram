@@ -58,16 +58,23 @@ def alcanzable(url):
 
 
 def verificar_medios(urls):
-    problemas = []
+    """Separa lo que impide publicar de lo que solo conviene mirar."""
+    problemas, avisos = [], []
     for u in urls:
         ok, detalle = alcanzable(u)
         if not ok:
             problemas.append(f"{u} -> no accesible ({detalle})")
         elif u.endswith(".jpg") and "image" not in detalle:
             problemas.append(f"{u} -> se sirve como '{detalle}', Instagram espera una imagen")
-        elif u.endswith(".mp4") and "video" not in detalle and "octet-stream" not in detalle:
-            problemas.append(f"{u} -> se sirve como '{detalle}', Instagram espera un video")
-    return problemas
+        elif u.endswith(".mp4") and "video" not in detalle:
+            # raw.githubusercontent sirve los mp4 como octet-stream. A veces pasa,
+            # pero es la causa tipica de un reel que se queda en ERROR. Con
+            # GitHub Pages el tipo llega correcto.
+            avisos.append(
+                f"{u} -> se sirve como '{detalle}' en vez de 'video/mp4'. "
+                f"Si el reel falla al procesarse, es por aqui."
+            )
+    return problemas, avisos
 
 
 def publicar_item(ig, item, base, simular):
@@ -76,9 +83,13 @@ def publicar_item(ig, item, base, simular):
     portada = url_de(base, item["portada"]) if item.get("portada") else None
 
     print(f"  medios: {len(urls)}")
-    problemas = verificar_medios(urls + ([portada] if portada else []))
+    problemas, avisos = verificar_medios(urls + ([portada] if portada else []))
     if problemas:
-        raise ErrorInstagram("los medios no estan servibles:\n    " + "\n    ".join(problemas))
+        sangria = chr(10) + '    '
+        raise ErrorInstagram('los medios no estan servibles:' + sangria
+                             + sangria.join(problemas))
+    for a in avisos:
+        print(f"  AVISO · {a}")
     print("  medios verificados y accesibles")
 
     if simular:
