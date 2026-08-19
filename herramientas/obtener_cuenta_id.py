@@ -3,9 +3,10 @@
 
 Uso, desde tu maquina:
 
-    IG_TOKEN=tu_token python herramientas/obtener_cuenta_id.py
+    python herramientas/obtener_cuenta_id.py
 
-El token no se guarda en ningun sitio: se usa para las dos consultas y ya.
+Te pide el token de forma oculta, asi que no queda en el historial del shell.
+Tampoco se guarda en disco: se usa para las consultas y ya.
 Pega el ID que imprima como secret IG_CUENTA_ID en GitHub.
 """
 import json
@@ -27,8 +28,11 @@ def pedir(ruta, token, **params):
 def main():
     token = os.environ.get("IG_TOKEN", "").strip()
     if not token:
-        print("Falta IG_TOKEN. Ejecuta:")
-        print("  IG_TOKEN=tu_token python herramientas/obtener_cuenta_id.py")
+        # Se pide oculto para que no quede en el historial del shell.
+        import getpass
+        token = getpass.getpass("Pega tu token (no se vera al escribir): ").strip()
+    if not token:
+        print("Sin token no puedo consultar nada.")
         return 1
 
     try:
