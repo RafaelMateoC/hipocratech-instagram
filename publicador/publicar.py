@@ -165,14 +165,23 @@ def main():
               f"(media {estado[fecha]['media_id']}). No se repite.")
         return 0
 
-    ig = Instagram(cuenta, token) if not simular else None
+    # El cliente se crea tambien al simular: sirve para comprobar el token sin
+    # publicar nada. Una simulacion que no toca la API no prueba gran cosa.
+    ig = Instagram(cuenta, token) if (cuenta and token) else None
     if ig:
         print(f"Acceso  : {ig.flujo} ({ig.base})")
         try:
             usado, total = ig.limite()
             print(f"Cuota   : {usado}/{total} publicaciones en 24h")
+            print("Token   : verificado, la cuenta responde")
         except ErrorInstagram as e:
-            print(f"Aviso: no pude leer la cuota ({e})")
+            print(f"Token   : la API no respondio a la comprobacion · {e}")
+            if simular:
+                print()
+                print('Revisa el token y el IG_CUENTA_ID antes de publicar de verdad.')
+                return 1
+    elif simular:
+        print("Sin credenciales: solo se verifican los medios.")
 
     try:
         media_id, permalink = publicar_item(ig, item, base, simular)
