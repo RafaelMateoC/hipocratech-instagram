@@ -69,6 +69,61 @@ publicador/publicar.py          publica lo que toca hoy
 
 ---
 
+## Música y historias
+
+### La música
+
+Los reels llevan un fondo de audio incrustado en el MP4: dos senoidales graves
+con tremolo, filtradas y normalizadas a −20 LUFS. Un pulso bajo y sostenido,
+sin melodía ni letra, generado con `herramientas/poner_audio.py`. No es una
+pista con licencia de nadie — se sintetiza.
+
+Cinco guiones marcan el segundo exacto en que la música entra o sale, y se
+respeta:
+
+| Fecha | Lo que pide el guion |
+|---|---|
+| 22 ago | corta en seco en el segundo 13 |
+| 31 ago | los primeros dos segundos en silencio |
+| 14 sep | nada de música los primeros 7 segundos |
+| 28 sep | corta en el segundo 19 |
+| **19 sep** | **mudo entero** — «es el chiste del reel y necesita silencio» |
+
+Para cambiar la pista por una tuya:
+
+```bash
+python herramientas/poner_audio.py --pista audio/tu-pista.mp3
+```
+
+**Los carruseles del feed no pueden llevar música.** La API no lo permite para
+publicaciones de imagen — solo se puede en la app, a mano. Lo que sí lleva
+audio es la historia de ese día, que es un video.
+
+### Las historias
+
+Cada publicación se comparte a historias automáticamente, justo después de que
+el feed salga bien. Si la historia falla, el feed queda publicado igual y se
+avisa: nunca se reintenta la publicación principal por un fallo de la historia.
+
+- **Días de reel** — la historia es el propio reel
+- **El resto** — un video de 6 segundos con la primera lámina centrada sobre el
+  color de la pieza, con el fondo de audio
+
+Dos límites que conviene tener claros, porque tu protocolo los menciona:
+
+- **No es «compartir la publicación» con el sticker que enlaza al post.** Eso
+  solo existe dentro de la app. Por API se publica una historia nueva con el
+  mismo material, sin enlace al feed.
+- **No se pueden añadir stickers de encuesta ni de pregunta.** Si los quieres
+  —y tu protocolo los pide en los primeros 15 minutos—, esa historia hay que
+  ponerla a mano.
+
+Se regeneran con:
+
+```bash
+python herramientas/preparar_historias.py
+```
+
 ## Puesta en marcha
 
 ### 1. Requisitos de la cuenta

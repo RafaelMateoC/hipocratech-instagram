@@ -101,6 +101,10 @@ def publicar_item(ig, item, base, simular):
             print(f"    - {u}")
         if portada:
             print(f"    portada: {portada}")
+        historia = url_de(base, f"medios/{item['carpeta']}/historia.mp4")
+        pro_h, _ = verificar_medios([historia])
+        print(f"  historia  : {'accesible' if not pro_h else 'NO ACCESIBLE'}")
+        print(f"    - {historia}")
         return None, None
 
     if item["formato"] == "carrusel":
@@ -123,6 +127,26 @@ def publicar_item(ig, item, base, simular):
     ig.esperar(contenedor, log=lambda m: print(m, flush=True))
     media_id = ig.publicar(contenedor)
     return media_id, ig.permalink(media_id)
+
+
+def compartir_historia(ig, item, base, log=print):
+    """Publica la historia despues de que el feed haya salido bien.
+
+    Si esto falla no se toca el resultado del feed: la publicacion principal ya
+    esta arriba y no se va a repetir por un fallo de la historia.
+    """
+    rel = f"medios/{item['carpeta']}/historia.mp4"
+    url = url_de(base, rel)
+
+    problemas, avisos = verificar_medios([url])
+    if problemas:
+        raise ErrorInstagram(problemas[0])
+    for a in avisos:
+        log(f"  AVISO · {a}")
+
+    contenedor = ig.contenedor_historia(video_url=url)
+    ig.esperar(contenedor, limite=300, intervalo=10, log=lambda m: log(f"  {m}"))
+    return ig.publicar(contenedor)
 
 
 def main():
@@ -201,6 +225,19 @@ def main():
         "publicado_en": datetime.now().astimezone().isoformat(timespec="seconds"),
     }
     guardar_estado(estado)
+
+    print()
+    print("Compartiendo a historias…")
+    try:
+        historia_id = compartir_historia(ig, item, base)
+        estado[fecha]["historia_id"] = historia_id
+        guardar_estado(estado)
+        print(f"  historia publicada · {historia_id}")
+    except ErrorInstagram as e:
+        estado[fecha]["historia_error"] = str(e)
+        guardar_estado(estado)
+        print(f"  la historia no salio · {e}")
+        print("  el feed si esta publicado; la historia se puede subir a mano")
 
     print(f"\nPUBLICADO · media {media_id}")
     if permalink:

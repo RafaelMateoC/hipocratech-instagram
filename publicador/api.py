@@ -105,6 +105,19 @@ class Instagram:
             p["cover_url"] = cover_url
         return self._pedir("POST", f"{self.cuenta_id}/media", **p)["id"]
 
+    def contenedor_historia(self, video_url=None, image_url=None):
+        """Historia nueva con el mismo material.
+
+        Ojo: la API no puede resubir una publicacion del feed a la historia con
+        el sticker que enlaza al post. Eso solo existe dentro de la app.
+        """
+        p = {"media_type": "STORIES"}
+        if video_url:
+            p["video_url"] = video_url
+        else:
+            p["image_url"] = image_url
+        return self._pedir("POST", f"{self.cuenta_id}/media", **p)["id"]
+
     # -- publicacion --------------------------------------------------------
 
     def estado(self, contenedor):
