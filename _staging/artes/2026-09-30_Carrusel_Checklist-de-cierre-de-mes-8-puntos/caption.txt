@@ -1,0 +1,73 @@
+==============================================================================
+30 DE SEPTIEMBRE DE 2026 · MIÉRCOLES
+CARRUSEL · PILAR 3 · Cumplimiento y facturación electrónica
+SENAL OBJETIVO: SAVES · guardados
+==============================================================================
+
+TEMA: Checklist de cierre de mes · 8 puntos
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Ocho preguntas antes de mandarle nada al contador. La número 2 cambia con la factura electrónica.
+
+POR QUE RETIENE:
+  Anuncia que una de las ocho cambió y no dice cuál: el lector desliza hasta encontrarla. Es el recurso más simple de curiosidad dirigida y funciona en formato lista. Además es material de referencia puro, que se guarda por definición.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Ocho preguntas antes de mandarle nada al contador. La número 2 cambia con la factura electrónica.
+
+1 · ¿Todas las consultas del mes quedaron cerradas y firmadas?
+Una consulta abierta es una atención que no se facturó.
+
+2 · ¿Toda atención facturada tiene su comprobante emitido Y VALIDADO?
+Esta es la que cambia con la facturación electrónica: ya no basta con haberlo generado, hay que confirmar que la DGII lo aceptó. Un comprobante rechazado que nadie revisó es una venta que no existe.
+
+3 · ¿Cuadró la caja todos los días?
+Un solo día descuadrado contamina el mes entero.
+
+4 · ¿Se capturaron los comprobantes de todos los proveedores?
+Los que faltan son exactamente los que después no aparecen en el 606.
+
+5 · ¿Se generó la nómina con AFP, SFS e ISR aplicados?
+Y el neto por empleado revisado antes del pago.
+
+6 · ¿Se calculó la retención del 10% de honorarios médicos?
+Con el detalle por profesional para el IR-17.
+
+7 · ¿Se armó el lote de reclamación de cada ARS?
+Y se revisó si quedó alguna glosa del mes anterior sin responder.
+
+8 · ¿Se revisó el inventario por vencimientos y punto de reorden?
+Lo vencido es pérdida directa; lo agotado es una atención que no vas a poder dar.
+
+Si hiciste los ocho, el cierre es revisar y exportar. Si no, el cierre es reconstruir — y eso toma una semana que no tienes.
+
+Guárdalo: lo vas a abrir todos los meses.
+
+Confirma las obligaciones y fechas vigentes en dgii.gov.do o con tu contador.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#FacturaciónElectrónica #eCF #DGII #Ley3223 #ComprobanteFiscalElectrónico #FacturaciónMédica #RepúblicaDominicana #Contabilidad #ARS #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Checklist de cierre de mes para un centro de salud en República Dominicana: consultas cerradas, comprobantes validados, caja cuadrada, nómina, IR-17, reclamaciones ARS e inventario.
+
+ARTES: 7 laminas. Publicar en orden lamina-01 ... lamina-07.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

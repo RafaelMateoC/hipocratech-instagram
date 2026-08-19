@@ -1,0 +1,60 @@
+==============================================================================
+23 DE SEPTIEMBRE DE 2026 · MIÉRCOLES
+CARRUSEL · PILAR 3 · Cumplimiento y facturación electrónica
+SENAL OBJETIVO: SAVES · guardados
+==============================================================================
+
+TEMA: 606, 607 e IR-17 con factura electrónica
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Cuando la factura nace electrónica, el cierre deja de ser reconstruir y pasa a ser confirmar.
+
+POR QUE RETIENE:
+  Promete un cambio de estado —de reconstruir a confirmar— y lo demuestra reporte por reporte. La lámina del 606 nombra el problema incómodo de la transición, que es lo que hace que el post se guarde en vez de solo leerse.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Cuando la factura nace electrónica, el cierre deja de ser reconstruir y pasa a ser confirmar.
+
+Un centro de salud convive con tres reportes todos los meses. Los tres se arman con información que ya existe dentro de la operación — siempre que esté bien registrada.
+
+FORMATO 607 · VENTAS
+Todo lo que facturaste. Una vez que emitas e-CF, cada comprobante habrá sido validado por la DGII en el momento de emitirlo. El 607 deja de ser una recopilación y pasa a ser una confirmación de algo que ya ocurrió.
+
+FORMATO 606 · COMPRAS
+Todo lo que compraste, con el comprobante de cada suplidor. Aquí está el cambio más incómodo de la transición: ahora también recibes comprobantes electrónicos de tus proveedores, y hay que capturarlos y validarlos. Las facturas de proveedor que nadie registró son exactamente las que después no aparecen.
+
+IR-17 · RETENCIONES
+La retención del 10% sobre honorarios de médicos, calculada y reportada por período con el detalle por profesional. Es el que más dolores de cabeza da en centros con muchos médicos por honorarios, porque cada uno tiene su porcentaje de participación.
+
+La lógica de fondo es siempre la misma: si cada factura, cada compra y cada pago de nómina ya quedó clasificado en el momento en que ocurrió, el cierre consiste en revisar y exportar. Si no, consiste en reconstruir — y reconstruir siempre deja algo fuera.
+
+Guárdalo antes de tu próximo cierre de mes.
+
+Confirma los plazos, formatos y obligaciones vigentes en dgii.gov.do o con tu contador.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#FacturaciónElectrónica #eCF #DGII #Ley3223 #ComprobanteFiscalElectrónico #FacturaciónMédica #RepúblicaDominicana #Contabilidad #ARS #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Formatos 606, 607 e IR-17 de la DGII en un centro de salud con facturación electrónica e-CF, y cómo se generan desde la facturación y las compras.
+
+ARTES: 7 laminas. Publicar en orden lamina-01 ... lamina-07.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

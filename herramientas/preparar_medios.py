@@ -6,6 +6,7 @@ necesitan un MP4 real: se arma desde los frames del guion, con cortes secos y lo
 tiempos que el propio guion define.
 """
 import json
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -40,9 +41,20 @@ def a_jpeg(origen, destino):
 
 
 def construir_video(carpeta, destino, total, fin_gancho, inicio_cierre):
-    """Arma el MP4 vertical desde los frames, respetando los tiempos del guion."""
-    frames = sorted(carpeta.glob("frame-*.png"))
+    """Deja listo el MP4 del reel.
+
+    Si la carpeta trae el video ya producido se usa ese tal cual: nada que
+    armemos con tres imagenes fijas va a superar al video real. Solo si no
+    existe se genera uno desde los frames del guion, como sustituto.
+    """
     destino.parent.mkdir(parents=True, exist_ok=True)
+
+    producido = carpeta / "REEL.mp4"
+    if producido.exists():
+        shutil.copyfile(producido, destino)
+        return "producido"
+
+    frames = sorted(carpeta.glob("frame-*.png"))
 
     if fin_gancho is None or inicio_cierre is None or len(frames) != 3:
         # Sin tiempos utiles, se reparte parejo.
@@ -80,7 +92,7 @@ def construir_video(carpeta, destino, total, fin_gancho, inicio_cierre):
     lista.unlink(missing_ok=True)
     if res.returncode != 0:
         raise RuntimeError(f"ffmpeg fallo en {carpeta.name}:\n{res.stderr[-1500:]}")
-    return duraciones
+    return "generado"
 
 
 def main():
@@ -96,11 +108,13 @@ def main():
         if item["formato"] == "reel":
             destino = RAIZ / item["medios"][0]
             cortes = item.get("cortes", {})
-            construir_video(
+            origen = construir_video(
                 carpeta, destino, item["duracion"],
                 cortes.get("gancho"), cortes.get("cierre"),
             )
             n_vid += 1
+            if origen == "generado":
+                avisos.append(f"{item['fecha']}: sin REEL.mp4, armado desde los frames")
             if item.get("portada"):
                 origen = carpeta / "portada-reel.png"
                 a_jpeg(origen, RAIZ / item["portada"])

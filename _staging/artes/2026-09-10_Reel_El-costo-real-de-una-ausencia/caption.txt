@@ -1,0 +1,94 @@
+==============================================================================
+10 DE SEPTIEMBRE DE 2026 · JUEVES
+REEL · PILAR 4 · Gestión y números
+SENAL OBJETIVO: SENDS · envíos por DM
+==============================================================================
+
+TEMA: El costo real de una ausencia
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Multiplica tu tarifa de consulta por las ausencias del mes pasado. Ese número ya no está.
+
+POR QUE RETIENE:
+  Pide una operación aritmética que el espectador hace en la cabeza mientras mira. Participar activamente en un reel casi garantiza que se vea completo. Y el resultado incomoda, que es lo que lo hace compartible.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Multiplica tu tarifa de consulta por las ausencias del mes pasado. Ese número ya no está.
+
+Hazlo ahora, de verdad. Tarifa × ausencias. Es dinero que no requería un solo paciente nuevo para haberse ganado: los pacientes ya estaban agendados, la hora ya estaba reservada, el médico ya estaba ahí.
+
+Ahora la parte incómoda: ¿sabes cuántas ausencias tuviste el mes pasado?
+
+Casi nadie lo sabe con precisión. Se recuerda que «faltó bastante gente», pero no hay número. Y lo que no se mide no se puede bajar — ni siquiera se puede saber si está mejorando.
+
+Lo que hace falta son dos cosas simples:
+
+UNA · Ver las citas sin confirmar el día antes, marcadas, para que alguien pueda llamar
+DOS · Un reporte de asistencia que separe atendidas, reagendadas y ausencias en porcentaje
+
+Con eso, la ausencia deja de ser mala suerte y pasa a ser un número que sube o baja según lo que hagas.
+
+Mándaselo a tu socio y hagan el cálculo juntos. Si el resultado los incomoda, hablamos.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#GestiónHospitalaria #IndicadoresDeSalud #DirecciónMédica #AdministraciónHospitalaria #RepúblicaDominicana #SaludRD #MédicosRD #ClínicaPrivada #KPIs #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Cómo calcular el costo de las ausencias de pacientes en un consultorio y cómo reducirlas con confirmación de citas y reportes de asistencia.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 16 segundos · vertical 1080x1920 · texto sobre fondo de marca
+
+ESTRUCTURA DE RETENCIÓN
+Un reel que le da tarea al espectador. La operación mental —tarifa × ausencias— hace que
+se quede a terminarla. La segunda pregunta («¿sabes cuántas fueron?») es la que
+incomoda, y la incomodidad es lo que se comparte.
+
+0:00-0:03  FRAME 1 · Texto: «Tu tarifa de consulta.» → «× las ausencias del mes pasado.»
+0:03-0:06  Texto grande, centrado: «Ese número ya no está.»
+0:06-0:10  Tres líneas acumulándose:
+           «El paciente ya estaba agendado.»
+           «La hora ya estaba reservada.»
+           «El médico ya estaba ahí.»
+0:10-0:13  Texto: «Ahora la parte incómoda:» (pausa de medio segundo)
+           «¿Cuántas ausencias tuviste el mes pasado?»
+0:13-0:16  Texto: «Si no tienes el número, ese es el problema.» + logo
+
+TÉCNICA
+· Dejar respirar el segundo 3-6. La frase «Ese número ya no está» necesita pantalla vacía.
+· La pausa antes de «¿Cuántas ausencias tuviste?» es lo que la convierte en pregunta real
+  y no en relleno. Medio segundo de negro funciona.
+· Sin capturas de pantalla. Este reel es aritmética, no producto.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

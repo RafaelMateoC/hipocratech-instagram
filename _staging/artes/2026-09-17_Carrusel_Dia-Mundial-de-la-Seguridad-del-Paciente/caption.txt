@@ -1,0 +1,64 @@
+==============================================================================
+17 DE SEPTIEMBRE DE 2026 · JUEVES
+CARRUSEL · PILAR 4 · Gestión y números
+SENAL OBJETIVO: SENDS · envíos por DM
+FECHA CLAVE: Día Mundial de la Seguridad del Paciente (OMS)
+==============================================================================
+
+TEMA: Día Mundial de la Seguridad del Paciente
+
+GANCHO (primera linea del caption / primer frame del reel):
+  El error clínico que más se repite no empieza en el quirófano. Empieza en un dato que nadie vio.
+
+POR QUE RETIENE:
+  Reencuadra un tema que la audiencia cree conocer. Los cuatro ejemplos de la lámina 2 son situaciones concretas que cualquier clínico reconoce, y ese reconocimiento sostiene el deslizamiento hasta la cita final.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+El error clínico que más se repite no empieza en el quirófano. Empieza en un dato que nadie vio.
+
+Hoy es el Día Mundial de la Seguridad del Paciente, y la conversación casi siempre va hacia protocolos clínicos. Pero una parte enorme del riesgo evitable no está en la decisión médica: está en la información que llega incompleta al momento de decidir.
+
+La alergia que estaba anotada en un expediente que nadie abrió.
+El medicamento indicado sin ver lo que el paciente ya tomaba.
+El resultado de laboratorio que llegó por WhatsApp y no se adjuntó a ningún lado.
+La firma que nadie sabe de quién es.
+
+Ninguna de esas cuatro es un error de criterio. Las cuatro son errores de información.
+
+Cuatro cosas que un sistema puede sostener y una carpeta de papel no:
+
+→ ALERGIAS SIEMPRE VISIBLES — en el encabezado del paciente, junto al nombre, en todas las pantallas
+→ RANGOS POR EDAD — el sistema avisa cuando un signo vital se sale de lo normal para esa edad
+→ EXPEDIENTE ÚNICO — un paciente, un expediente, con todas sus consultas y todos sus documentos
+→ CIERRE Y FIRMA — la consulta, la sesión odontológica y el circuito quirúrgico quedan sellados y trazables
+
+La seguridad del paciente empieza mucho antes del quirófano. Empieza en si la información está donde tiene que estar cuando alguien tiene que decidir.
+
+Compártelo con tu equipo clínico hoy. Es el día para hacerlo.
+
+hipocra.tech
+
+#GestiónHospitalaria #IndicadoresDeSalud #DirecciónMédica #AdministraciónHospitalaria #RepúblicaDominicana #SaludRD #MédicosRD #ClínicaPrivada #KPIs #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Día Mundial de la Seguridad del Paciente: cómo la información clínica incompleta genera riesgo evitable y qué controles aporta un expediente electrónico.
+
+ARTES: 5 laminas. Publicar en orden lamina-01 ... lamina-05.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

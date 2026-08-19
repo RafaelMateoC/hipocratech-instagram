@@ -1,0 +1,101 @@
+==============================================================================
+14 DE SEPTIEMBRE DE 2026 · LUNES
+REEL · PILAR 1 · Dolor y diagnóstico
+SENAL OBJETIVO: SENDS · envíos por DM
+==============================================================================
+
+TEMA: La historia clínica en una funda plástica
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Llega con una funda plástica. Adentro está toda su historia médica. Es la única que existe.
+
+POR QUE RETIENE:
+  Imagen concreta y universalmente reconocible en el primer segundo, grabada con un teléfono y sin producción. El objeto real retiene más que cualquier gráfico. El giro del segundo 17 —que la culpa no es del paciente— reencuadra todo el reel y es lo que se comparte.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Llega con una funda plástica. Adentro: una sonografía de 2019, un laboratorio arrugado, tres recetas de médicos distintos y un papel donde alguien anotó algo que ya no se entiende.
+
+Esa funda es su historia clínica. La única que existe.
+
+Y el problema no es del paciente. El paciente hizo su parte: guardó todo, lo trajo, no perdió nada en seis años. Cumplió con creces.
+
+El problema es que el sistema de salud le pidió a él que fuera el custodio de su propia información, porque ninguno de los centros donde lo atendieron la conservó de forma que otro pudiera leerla.
+
+Lo que se pierde ahí:
+— El médico no ve la evolución, ve fotos sueltas de momentos distintos
+— Se repiten estudios que ya se hicieron, y alguien los paga
+— Las alergias dependen de que el paciente las recuerde en ese momento
+— Un antecedente familiar importante se queda sin registrar porque no cabía en la funda
+
+El expediente único no es una función avanzada de un software. Es lo mínimo que una persona debería poder esperar de un sistema de salud.
+
+Mándaselo a alguien que atienda pacientes referidos. Lo ve todas las semanas.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #GestiónClínica #ClínicaPrivada #ConsultorioMédico #RepúblicaDominicana #SantoDomingo #AdministraciónDeSalud #MédicosRD #SaludRD #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  El problema del expediente clínico disperso: pacientes que llevan sus estudios, laboratorios y recetas en papel porque ningún centro conserva su historia completa.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 29 segundos · vertical 1080x1920
+
+ESTRUCTURA DE RETENCIÓN
+El objeto real es todo. Una funda plástica con papeles viejos es inmediatamente
+reconocible para cualquiera que trabaje en salud, y genera un «esto lo vi ayer» que
+detiene el scroll sin necesidad de texto. El giro del segundo 17 —la culpa no es del
+paciente— reencuadra el reel y es lo que provoca el envío.
+
+0:00-0:07  Plano cenital. Manos sacando papeles de una funda plástica, uno por uno,
+           sobre un escritorio. Sonografía. Laboratorio arrugado. Tres recetas.
+           Texto: «Esta es su historia clínica.»
+0:07-0:11  Texto: «La única que existe.»
+0:11-0:17  Los papeles ya extendidos sobre la mesa, desordenados.
+           Texto: «Sonografía de 2019.» «Un laboratorio arrugado.»
+           «Tres recetas de médicos distintos.»
+0:17-0:22  GIRO. Texto: «El problema no es del paciente.» (pausa)
+           «Él hizo su parte. Guardó todo.»
+0:22-0:26  Texto: «El sistema le pidió a él que fuera el custodio de su información.»
+0:26-0:29  Corte a la historia clínica de Hipocratech: consultas en línea de tiempo,
+           documentos adjuntos. Texto: «Debería estar aquí.»
+
+PRODUCCIÓN
+· Grabar con teléfono, luz natural, plano cenital fijo. No hace falta actor: solo manos.
+· Que los papeles se vean reales: arrugados, de distintos tamaños, con dobleces.
+  Si se ven nuevos, el reel no funciona.
+· Nada de música los primeros 7 segundos. Solo el sonido del papel. Ese sonido es
+  el gancho auditivo y es gratis.
+· Costo de producción: cero. Impacto: el más alto del mes.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

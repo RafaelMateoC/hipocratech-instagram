@@ -1,0 +1,101 @@
+==============================================================================
+29 DE AGOSTO DE 2026 · SÁBADO
+REEL · PILAR 5 · Marca y comunidad
+SENAL OBJETIVO: COMENTARIOS · conversación
+==============================================================================
+
+TEMA: Por qué se llama Hipocratech
+
+GANCHO (primera linea del caption / primer frame del reel):
+  La medicina tiene casi 2,500 años y no necesita mejoras. Lo que la rodea, sí.
+
+POR QUE RETIENE:
+  Afirmación contraintuitiva viniendo de una empresa de tecnología: decir que la medicina no necesita mejoras desarma la expectativa de venta y hace que la gente se quede a escuchar el resto. Cierra con una pregunta personal y específica sobre el tiempo del médico, que es un tema en el que todos tienen algo que decir.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+La medicina tiene casi 2,500 años y no necesita mejoras. Lo que la rodea, sí.
+
+Hipócrates y tecnología. De ahí sale el nombre, y no es más complicado que eso.
+
+Lo elegimos porque describe exactamente lo que creemos: escuchar al paciente, examinarlo, razonar un diagnóstico y decidir un tratamiento sigue siendo lo mismo que era hace veinticinco siglos. Eso funciona. Nadie tiene que venir a mejorarlo con una aplicación.
+
+Lo que sí hay que cambiar es todo lo que rodea ese momento. El registro, el cobro, la reclamación, el inventario, el reporte. La parte que hoy le roba al médico el tiempo que debería estar dándole al paciente.
+
+Por eso el objetivo del sistema no es que el médico haga más cosas en la computadora. Es que haga menos:
+
+— Plantillas para no escribir lo mismo cada vez
+— Catálogos precargados para no buscar
+— Cargos que se generan solos para no transcribir
+— Cálculos automáticos para no equivocarse
+
+Cada función que agregamos tiene que pasar una prueba: ¿esto le quita trabajo al médico o se lo agrega? Si se lo agrega, no entra.
+
+Ahora dime tú: ¿en qué se te va el tiempo que deberías estarle dando al paciente? Es una pregunta honesta y leo todas las respuestas.
+
+hipocra.tech · Santo Domingo, RD
+
+#SaludRD #MédicosRD #RepúblicaDominicana #SantoDomingo #InnovaciónEnSalud #HealthTech #ComunidadMédica #ClínicaPrivada #HechoEnRD #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  El origen del nombre Hipocratech: Hipócrates y tecnología, y por qué el software médico debe reducir el trabajo del médico en vez de aumentarlo.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 17 segundos · vertical 1080x1920 · texto sobre fondo de marca
+
+ESTRUCTURA DE RETENCIÓN
+El frame 1 dice algo que una empresa de software no debería decir: que la medicina no
+necesita mejoras. Esa contradicción con la expectativa es lo que frena el scroll — el
+espectador se queda a ver adónde va. La pregunta final es personal y concreta, que es
+la única clase de pregunta que genera comentarios reales.
+
+0:00-0:03  FRAME 1 · «La medicina tiene casi 2,500 años» → corte → «y no necesita mejoras.»
+           Blanco sobre navy. Sin adornos.
+0:03-0:06  Texto: «Lo que la rodea, sí.»
+0:06-0:11  Lista rápida, una línea cada 1.2 s:
+           «El registro.» «El cobro.» «La reclamación.» «El inventario.»
+           Y cerrando: «Todo lo que le roba tiempo al paciente.»
+0:11-0:14  Texto: «Por eso el sistema no busca que el médico haga más.»
+           → «Busca que haga menos.»
+0:14-0:17  «Hipócrates + tecnología.» + logo
+
+TÉCNICA
+· Solo texto sobre el navy de marca con la retícula. Sin capturas de pantalla: este
+  reel es de identidad, no de producto, y meter interfaz lo debilita.
+· «2,500 años» y «menos» en turquesa. Nada más en color.
+· Música: algo con peso, más lento que los otros reels. Este tiene que sentirse distinto.
+
+ALTERNATIVA CON CÁMARA
+Este es el mejor candidato del mes para grabar a cámara con alguien del equipo. Los
+reels con cara humana generan más comentarios, y este busca comentarios.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

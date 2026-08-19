@@ -1,0 +1,59 @@
+==============================================================================
+9 DE SEPTIEMBRE DE 2026 · MIÉRCOLES
+CARRUSEL · PILAR 3 · Cumplimiento y facturación electrónica
+SENAL OBJETIVO: SAVES · guardados
+==============================================================================
+
+TEMA: Sin CIE-10 no hay reclamación limpia
+
+GANCHO (primera linea del caption / primer frame del reel):
+  «Dolor abdominal» no es un diagnóstico para una ARS. Es una descripción.
+
+POR QUE RETIENE:
+  Corrección directa de algo que el lector probablemente hace mal. La lámina de comparación muestra la misma consulta escrita de dos formas, que es la manera más rápida de enseñar una diferencia.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+«Dolor abdominal» no es un diagnóstico para una ARS. Es una descripción.
+
+El CIE-10 es la clasificación internacional de enfermedades: más de 14,000 códigos que convierten lo que el médico escribió en información que un sistema puede leer, contar y cobrar.
+
+Sin código pasan tres cosas, y las tres cuestan:
+
+→ La reclamación sale débil y se expone a una glosa
+→ No hay reporte de morbilidad, así que no sabes qué se atiende realmente en tu centro
+→ No hay continuidad: el próximo médico lee un párrafo, no un diagnóstico
+
+Con código pasa lo contrario. El mismo dato viaja de la consulta a la factura, de la factura a la reclamación, y de ahí al reporte de diagnósticos más frecuentes. Escrito una vez, útil cuatro veces.
+
+En Hipocratech el buscador CIE-10 funciona por código o por descripción, sobre el catálogo completo en español, y permite marcar el diagnóstico como principal, presuntivo o definitivo. El catálogo lo mantenemos nosotros y llega actualizado a todas las instituciones sin que nadie toque una tabla.
+
+El detalle que lo hace viable: codificar no puede costarle tiempo al médico. Si el buscador es lento o el catálogo está en inglés, el médico escribe texto libre y volvemos al principio.
+
+Guárdalo y compártelo con tu equipo médico.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#FacturaciónElectrónica #eCF #DGII #Ley3223 #ComprobanteFiscalElectrónico #FacturaciónMédica #RepúblicaDominicana #Contabilidad #ARS #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Importancia del catálogo CIE-10 en la historia clínica para reclamaciones a las ARS, reportes de morbilidad y continuidad de la atención en República Dominicana.
+
+ARTES: 7 laminas. Publicar en orden lamina-01 ... lamina-07.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

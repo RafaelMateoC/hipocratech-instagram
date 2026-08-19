@@ -1,0 +1,62 @@
+==============================================================================
+1 DE SEPTIEMBRE DE 2026 · MARTES
+CARRUSEL · PILAR 2 · Producto en acción
+SENAL OBJETIVO: SAVES · guardados
+==============================================================================
+
+TEMA: Un expediente por persona, no uno por visita
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Si un paciente tiene tres expedientes, no tienes tres expedientes: tienes cero.
+
+POR QUE RETIENE:
+  Paradoja en la primera línea: tres es igual a cero. La afirmación no se sostiene sola, así que hay que deslizar para entenderla. Se guarda porque la lámina final da una tarea concreta —auditar la base— que nadie hace en el momento.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Si un paciente tiene tres expedientes, no tienes tres expedientes: tienes cero.
+
+Es el problema silencioso de casi todo centro que creció sin sistema. El mismo señor aparece como «Pedro Sánchez», «Pedro Sánchez Cruz» y «P. Sánchez». Cada ficha tiene un pedazo de su historia. Ninguna la tiene completa.
+
+Y el médico decide con la que le tocó abrir.
+
+Ese es el costo real de los duplicados: no es desorden administrativo, es una decisión clínica tomada con información parcial sin que nadie sepa que era parcial.
+
+El módulo de Pacientes existe para que no pase:
+
+→ BUSCADOR UNIVERSAL — por nombre, por cédula o por número de expediente
+→ SIN DUPLICADOS — la cédula y el número de expediente son la llave del paciente en todo el sistema
+→ FICHA RESUMIDA — edad, sexo, ARS, última visita y próxima cita programada
+→ ESTADOS CLÍNICOS — activo, nuevo, crónico o post-operatorio
+→ FILTROS — todos, nuevos del mes, o crónicos en seguimiento
+→ ACCESO DIRECTO — «ver historia» desde cada fila
+
+El filtro que más rinde es el de crónicos. Es la lista de las personas que deberían estar volviendo y que nadie está llamando. Ahí hay consultas que ya son tuyas y todavía no se agendaron.
+
+Guárdalo y audita tu base esta semana: busca tu apellido más común y cuenta cuántas veces aparece la misma persona.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #ExpedienteElectrónico #HistoriaClínica #SistemaMédico #RepúblicaDominicana #SantoDomingo #ClínicaDigital #MédicosRD #HealthTech #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Módulo de pacientes de Hipocratech con expediente único por persona, buscador por cédula, estados clínicos y filtro de pacientes crónicos en seguimiento.
+
+ARTES: 7 laminas. Publicar en orden lamina-01 ... lamina-07.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

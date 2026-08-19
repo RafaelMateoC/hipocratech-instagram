@@ -1,0 +1,64 @@
+==============================================================================
+15 DE SEPTIEMBRE DE 2026 · MARTES
+CARRUSEL · PILAR 2 · Producto en acción
+SENAL OBJETIVO: SAVES · guardados
+==============================================================================
+
+TEMA: Historia clínica estructurada como piensa el médico
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Cinco pestañas en el mismo orden en que ocurre la consulta. Ni una más.
+
+POR QUE RETIENE:
+  Estructura numerada y predecible: el lector sabe que hay cinco y desliza para verlas todas. Es contenido de referencia, que es exactamente lo que se guarda para comparar con el sistema propio.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Cinco pestañas en el mismo orden en que ocurre la consulta. Ni una más.
+
+La historia clínica no debería obligarte a pensar en un orden distinto al de la atención. Si el software te hace saltar de pantalla en pantalla, el que se adapta es el médico — y eso se paga en tiempo, cada consulta, todos los días.
+
+1 · HISTORIA ACTUAL
+Motivo de consulta y enfermedad actual en texto libre, con plantillas reutilizables para los cuadros que ves todos los días. Diagnóstico CIE-10 con buscador. Las consultas anteriores en línea de tiempo, al lado.
+
+2 · ANTECEDENTES
+Una matriz de casillas, no párrafos. Diabetes, hipertensión, cardiopatía, tiroides, asma, obesidad y más, cruzadas contra el propio paciente, el padre, la madre y los hermanos. Alérgicos y medicamentos en su propia sección. Hábitos tóxicos con cantidad y frecuencia. Se llena una vez y solo se actualiza lo que cambia.
+
+3 · EXÁMENES
+Signos vitales con rangos normales por edad y alerta cuando un valor se sale. IMC calculado solo. Gráficos de tendencia de presión y glicemia entre consultas. Examen por sistemas marcado normal o alterado en un clic.
+
+4 · INDICACIONES
+Recetas con medicamento del vademécum, dosis, presentación, frecuencia y vía. Estudios y laboratorios. Todo imprimible con la firma del doctor.
+
+5 · DOCUMENTOS
+Resultados de laboratorio en PDF, sonografías, radiografías, referimientos y consentimientos firmados. Se arrastran y se sueltan al expediente.
+
+Y por encima de las cinco, siempre: las alergias del paciente en el encabezado, junto al nombre, la edad, el expediente, la cédula y la ARS. En todas las pantallas, sin excepción.
+
+Guárdalo y compáralo con las pantallas que tienes que abrir hoy para hacer lo mismo.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #ExpedienteElectrónico #HistoriaClínica #SistemaMédico #RepúblicaDominicana #SantoDomingo #ClínicaDigital #MédicosRD #HealthTech #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Historia clínica electrónica de Hipocratech con cinco pestañas: historia actual con CIE-10, antecedentes, exámenes y signos vitales, indicaciones y recetas, y documentos adjuntos.
+
+ARTES: 8 laminas. Publicar en orden lamina-01 ... lamina-08.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

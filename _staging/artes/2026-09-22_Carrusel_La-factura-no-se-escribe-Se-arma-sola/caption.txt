@@ -1,0 +1,60 @@
+==============================================================================
+22 DE SEPTIEMBRE DE 2026 · MARTES
+CARRUSEL · PILAR 2 · Producto en acción
+SENAL OBJETIVO: SAVES · guardados
+==============================================================================
+
+TEMA: La factura no se escribe. Se arma sola.
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Cuando el médico cierra la consulta, la factura ya existe. Nadie la escribió.
+
+POR QUE RETIENE:
+  Afirmación que suena imposible y obliga a deslizar para ver cómo. La lámina 4 conecta con la facturación electrónica, que es el tema que la audiencia ya está siguiendo — el post se apoya en el hilo del trimestre.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Cuando el médico cierra la consulta, la factura ya existe. Nadie la escribió.
+
+En ese momento el sistema ya sabe qué se hizo, cuál es el diagnóstico, qué ARS tiene el paciente y qué cubre su plan. La factura no es una tarea aparte: es la consecuencia de lo que acaba de pasar.
+
+Lo que hace el módulo de Facturación:
+
+→ Asigna el comprobante que corresponde y lleva el control de su secuencia
+→ Separa la cobertura: cuánto cubre la ARS y cuánto le toca al paciente, en columnas distintas
+→ Muestra el origen de cada cargo — consulta, emergencia, hospitalización, odontología, certificado — para saber de dónde viene cada peso
+→ Maneja los estados reales: pendiente de cobro, pagada en efectivo o tarjeta, anulada
+→ Convierte cotizaciones previas en factura
+→ Indicadores del día: facturado, cobrado en caja, pendiente de cobro y monto por reclamar a las ARS
+
+El detalle que más se agradece: el origen del cargo. Saber que RD$3,450 vinieron de emergencia y no de consulta externa es lo que después permite decir qué área sostiene el centro — y esa pregunta se responde en el reporte, no en una reunión.
+
+Cuando entres a facturación electrónica esto va a pesar más que hoy. Un comprobante incompleto ya no será un comprobante feo: será un comprobante que no se valida. Cuando nace del expediente, nace con el cliente, el detalle y los montos que la validación exige — no con lo que alguien se acordó de teclear.
+
+Guárdalo para tu próxima conversación con el contador.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #ExpedienteElectrónico #HistoriaClínica #SistemaMédico #RepúblicaDominicana #SantoDomingo #ClínicaDigital #MédicosRD #HealthTech #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Módulo de facturación de Hipocratech: cargos automáticos desde la consulta, separación de cobertura de la ARS y del paciente, y caja del día con cierre y arqueo.
+
+ARTES: 7 laminas. Publicar en orden lamina-01 ... lamina-07.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

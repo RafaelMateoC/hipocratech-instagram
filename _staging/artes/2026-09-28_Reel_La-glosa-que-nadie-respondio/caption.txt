@@ -1,0 +1,94 @@
+==============================================================================
+28 DE SEPTIEMBRE DE 2026 · LUNES
+REEL · PILAR 1 · Dolor y diagnóstico
+SENAL OBJETIVO: SENDS · envíos por DM
+==============================================================================
+
+TEMA: La glosa que nadie respondió
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Una glosa no es una discusión con la ARS. Es una cuenta regresiva.
+
+POR QUE RETIENE:
+  Contador de días corriendo en pantalla durante todo el reel: un número que avanza es de los recursos más retentivos que existen. El espectador se queda a ver dónde para.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Una glosa no es una discusión con la ARS. Es una cuenta regresiva.
+
+La aseguradora objeta una parte del lote. Llega el aviso. Alguien lo ve, piensa «hay que responder eso», y lo deja para cuando haya tiempo.
+
+No hay tiempo. Nunca hay tiempo.
+
+Pasan las semanas, el lote sigue su curso, y ese monto deja de ser una objeción para convertirse en algo mucho más simple: dinero que trabajaste y que no vas a cobrar.
+
+Lo más frustrante es que la mayoría de las glosas se pueden responder. Falta un código, falta una autorización previa, falta un documento de soporte que sí existe y está en el expediente del paciente. Es papeleo, no es un desacuerdo clínico. Nadie está diciendo que no se hizo el procedimiento.
+
+Lo que falta no es el argumento. Es el sistema que te avise a tiempo, te muestre el monto exacto en riesgo, y te deje responder con la documentación de soporte desde la misma pantalla donde ves la objeción.
+
+Y una regla que vale la pena tatuarse: un procedimiento sin autorización aprobada es una glosa anunciada. Verificar antes cuesta minutos; reclamar después cuesta semanas.
+
+Mándaselo a quien maneja tus reclamaciones. Si tiene glosas de julio sin responder, hoy es buen día para revisarlas.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #GestiónClínica #ClínicaPrivada #ConsultorioMédico #RepúblicaDominicana #SantoDomingo #AdministraciónDeSalud #MédicosRD #SaludRD #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Gestión de glosas y objeciones de las ARS: por qué responder a tiempo con documentación de soporte evita perder ingresos ya trabajados.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 27 segundos · vertical 1080x1920
+
+ESTRUCTURA DE RETENCIÓN
+Un contador de días que avanza en pantalla desde el primer segundo. Los números que
+suben retienen: el espectador se queda a ver dónde para. El final —que el contador se
+detiene y el monto se pone en rojo— es el cierre emocional.
+
+0:00-0:04  FRAME 1 · Contador grande: «Día 1». Texto: «Una glosa no es una discusión.»
+           → «Es una cuenta regresiva.»
+0:04-0:09  Contador sube a «Día 7». Texto: «Llegó la objeción. Alguien la vio.»
+0:09-0:14  «Día 21». Texto: «"Hay que responder eso." No hubo tiempo.»
+0:14-0:19  «Día 45». Texto: «Ya no es una objeción.» → «Es dinero que no vas a cobrar.»
+           El monto en pantalla se pone en rojo y se tacha.
+0:19-0:24  Corte a la pantalla de Seguros/ARS con el botón «Responder glosa» visible.
+           Texto: «Casi todas se pueden responder.» → «Falta un código. Una autorización.
+           Un documento que ya existe.»
+0:24-0:27  Texto: «Solo hay que verlas a tiempo.» + logo
+
+TÉCNICA
+· El contador de días tiene que ser el elemento más grande de la pantalla durante los
+  primeros 19 segundos. Es el motor entero del reel.
+· El tachado del monto en rojo es el golpe. Sonido seco ahí.
+· Tic-tac sutil bajo la música durante la cuenta, que corta en el segundo 19.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

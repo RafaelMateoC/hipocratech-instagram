@@ -1,0 +1,107 @@
+==============================================================================
+24 DE AGOSTO DE 2026 · LUNES
+REEL · PILAR 1 · Dolor y diagnóstico
+SENAL OBJETIVO: SENDS · envíos por DM
+==============================================================================
+
+TEMA: 5 señales de que tu clínica pierde dinero
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Si te pasan tres de estas cinco, tu clínica está perdiendo dinero este mes.
+
+POR QUE RETIENE:
+  Formato lista numerada con contador visible: la gente se queda a ver las cinco. El frame 1 pone una condición verificable («tres de cinco») que convierte al espectador en participante — va contando. La señal 5 es la más dolorosa y se guarda para el final.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Si te pasan tres de estas cinco, tu clínica está perdiendo dinero este mes.
+
+1 · Cierras el mes sin saber cuánto te deben las ARS
+Sabes que «deben bastante». Ese es exactamente el problema.
+
+2 · Hay glosas que nadie respondió
+Una objeción sin responder a tiempo no es una discusión pendiente. Es dinero que ya perdiste.
+
+3 · Aparecen insumos vencidos en el almacén
+Cada caja vencida se compró con dinero que ya salió y que no va a volver.
+
+4 · Tienes citas sin confirmar que terminan en ausencias
+Una hora de consulta vacía no se recupera. Se pierde y ya.
+
+5 · Se hacen procedimientos que no llegan a la factura
+El médico lo hizo. El paciente lo recibió. Y en el sistema no aparece. Esta es la más cara de todas y la única que nadie detecta, porque no deja rastro.
+
+Ninguna de las cinco es un problema de medicina. Las cinco son problemas de registro — y por eso ninguna se arregla trabajando más duro.
+
+Si te pasaron tres, mándaselo a quien lleva la administración de tu centro. Si te pasaron cinco, escríbenos.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #GestiónClínica #ClínicaPrivada #ConsultorioMédico #RepúblicaDominicana #SantoDomingo #AdministraciónDeSalud #MédicosRD #SaludRD #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Cinco señales de que una clínica está perdiendo dinero: no saber cuánto deben las ARS, glosas sin responder, insumos vencidos, citas sin confirmar y procedimientos que no se facturan.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 22 segundos · vertical 1080x1920 · texto sobre fondo de marca
+
+ESTRUCTURA DE RETENCIÓN
+El frame 1 no promete información: propone un test. «Tres de estas cinco» convierte al
+espectador en participante y lo obliga a llegar hasta la quinta para saber su resultado.
+El contador 1/5 confirma cuánto falta. La señal 5 es la más dolorosa a propósito: el
+pico emocional va al final, justo antes del CTA de envío.
+
+0:00-0:03  FRAME 1 · «Si te pasan 3 de estas 5,» → corte → «tu clínica está perdiendo
+           dinero este mes.» Texto blanco sobre navy, entrada dura, sin animación suave.
+0:03-0:06  1/5 · «No sabes cuánto te deben las ARS»
+           Debajo, 0.8 s después: «Sabes que "deben bastante". Ese es el problema.»
+0:06-0:09  2/5 · «Hay glosas que nadie respondió» / «Eso no es una discusión. Es dinero perdido.»
+0:09-0:12  3/5 · «Aparecen insumos vencidos» / «Dinero que ya salió y no vuelve.»
+0:12-0:15  4/5 · «Citas sin confirmar que se vuelven ausencias» / «Una hora vacía no se recupera.»
+0:15-0:19  5/5 · «Procedimientos que no llegan a la factura»
+           Dejar este 1 segundo más que los otros. Debajo: «Esta es la que nadie detecta.»
+0:19-0:22  Cierre: «Ninguna es un problema de medicina.» → «Las cinco son de registro.»
+           + logo pequeño
+
+TÉCNICA
+· Contador «3/5» arriba a la derecha, grande. Es el motor de retención.
+· Número de la señal en turquesa, texto en blanco.
+· Cada corte es seco y cae sobre el beat de la música.
+· La señal 5 rompe el ritmo (dura 4 s en vez de 3). Ese quiebre es lo que la hace
+  memorable y lo que provoca el envío.
+
+POR QUÉ ESTE REEL BUSCA ENVÍOS
+Un envío por DM pesa varias veces más que un like para llegar a no-seguidores. Este
+formato funciona porque el espectador identifica a una persona concreta —su
+administrador, su socio— mientras lo ve. El CTA solo tiene que nombrarla.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

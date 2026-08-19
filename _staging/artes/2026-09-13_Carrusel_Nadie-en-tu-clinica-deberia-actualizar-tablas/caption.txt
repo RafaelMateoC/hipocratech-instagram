@@ -1,0 +1,62 @@
+==============================================================================
+13 DE SEPTIEMBRE DE 2026 · DOMINGO
+CARRUSEL · PILAR 5 · Marca y comunidad
+SENAL OBJETIVO: SENDS · envíos por DM
+==============================================================================
+
+TEMA: Nadie en tu clínica debería actualizar tablas
+
+GANCHO (primera linea del caption / primer frame del reel):
+  ¿Quién actualiza los códigos de diagnóstico en tu centro? Si la respuesta es un nombre, hay un problema.
+
+POR QUE RETIENE:
+  Pregunta con trampa: cualquier respuesta que dé el lector confirma el problema. Se envía porque casi siempre hay una persona concreta a quien va dirigido — la que mantiene ese Excel.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+¿Quién actualiza los códigos de diagnóstico en tu centro? Si la respuesta es un nombre, hay un problema.
+
+Y si la respuesta es «nadie», el problema es peor.
+
+Pasa en casi todas partes. Alguien mantiene el listado de medicamentos en un Excel. Alguien más actualiza los códigos cuando se acuerda. El tarifario de referencia lo actualizó la secretaria anterior, en 2023, y nadie lo ha vuelto a tocar.
+
+Eso no es trabajo administrativo. Es un problema que se acumula en silencio, hasta el día en que una reclamación sale con un código que ya no existe y la ARS la devuelve.
+
+En Hipocratech los catálogos son globales y los mantenemos nosotros:
+
+— CIE-10 con 14,420 códigos de diagnóstico
+— Vademécum con 8,150 fármacos
+— 1,240 procedimientos quirúrgicos
+— Las 12 ARS dominicanas con cobertura y tarifario de referencia
+
+Se publican de forma centralizada y llegan a todas las instituciones en su siguiente sesión. Sin avisos, sin instalaciones, sin que nadie en tu clínica tenga que hacer nada ni enterarse.
+
+Tu equipo atiende pacientes. Los catálogos son problema nuestro.
+
+Mándaselo a quien mantiene ese Excel. Le vas a alegrar el domingo.
+
+hipocra.tech
+
+#SaludRD #MédicosRD #RepúblicaDominicana #SantoDomingo #InnovaciónEnSalud #HealthTech #ComunidadMédica #ClínicaPrivada #HechoEnRD #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Catálogos globales mantenidos centralmente en Hipocratech: CIE-10 con 14,420 códigos, vademécum de 8,150 fármacos, 1,240 procedimientos quirúrgicos y 12 ARS dominicanas.
+
+ARTES: 4 laminas. Publicar en orden lamina-01 ... lamina-04.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

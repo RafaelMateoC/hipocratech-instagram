@@ -1,0 +1,102 @@
+==============================================================================
+21 DE AGOSTO DE 2026 · VIERNES
+REEL · PILAR 2 · Producto en acción
+SENAL OBJETIVO: WATCH TIME · retención
+==============================================================================
+
+TEMA: Un día completo, sin salir del sistema
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Del «buenos días, doctora» a la factura cobrada, sin cambiar de programa ni una vez.
+
+POR QUE RETIENE:
+  Estructura de recorrido con contador 1/8 visible. La promesa del frame 1 —llegar a la factura cobrada— solo se cumple en el segundo 26, así que el espectador se queda para ver el final. Cada paso dura 3 s: suficiente para entender, corto para no soltar.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Del «buenos días, doctora» a la factura cobrada, sin cambiar de programa ni una vez.
+
+Un día completo dentro del sistema, en ocho pasos:
+
+1 · La recepción agenda la cita y el paciente recibe la confirmación
+2 · Se marca la llegada y empieza a correr el tiempo de espera
+3 · El médico abre la historia clínica: antecedentes, signos vitales, diagnóstico CIE-10
+4 · La receta se imprime con la firma del doctor y queda en el expediente
+5 · Los cargos se generan solos, con la cobertura de la ARS separada de lo que paga el paciente
+6 · La caja registra el cobro y cierra el día cuadrada
+7 · La parte de la ARS entra al lote de reclamación
+8 · Todo alimenta los reportes de producción y contabilidad
+
+Ocho pasos. Un sistema. Cero transcripciones.
+
+Ahora cuenta cuántos programas distintos hacen falta hoy en tu centro para llegar del paso 1 al paso 8. Ese número es el problema.
+
+Guárdalo y compáralo con tu flujo de mañana.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #ExpedienteElectrónico #HistoriaClínica #SistemaMédico #RepúblicaDominicana #SantoDomingo #ClínicaDigital #MédicosRD #HealthTech #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Recorrido de un día completo en una clínica usando Hipocratech: agendar cita, marcar llegada, consulta con historia clínica, receta, facturación, cobro en caja y reclamación a la ARS.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 28 segundos · vertical 1080x1920 · screen recording
+
+ESTRUCTURA DE RETENCIÓN
+Bucle abierto: el frame 1 promete llegar «a la factura cobrada» y eso no ocurre hasta
+el segundo 26. El contador 1/8 le dice al espectador cuánto falta, que es el motivo por
+el que se queda. Cada paso son 3 segundos exactos — el ritmo no se rompe nunca.
+
+0:00-0:02  FRAME 1 · Texto sobre el dashboard: «Del "buenos días, doctora"…»
+           → corte → «…a la factura cobrada.» → «Sin cambiar de programa.»
+0:02-0:05  1/8 AGENDA — se crea la cita, se envía la confirmación
+0:05-0:08  2/8 LLEGADA — se marca llegada, arranca el cronómetro de espera
+0:08-0:11  3/8 CONSULTA — motivo, signos vitales, buscador CIE-10 en acción
+0:11-0:14  4/8 RECETA — se arma del vademécum y se imprime con la firma
+0:14-0:17  5/8 FACTURA — los cargos aparecen solos, ARS y paciente en columnas separadas
+0:17-0:20  6/8 CAJA — cobro registrado, cierre del día
+0:20-0:23  7/8 ARS — la parte de la aseguradora entra al lote de reclamación
+0:23-0:26  8/8 REPORTES — producción del doctor actualizada
+0:26-0:28  Texto de cierre: «Cero transcripciones.» + logo pequeño abajo
+
+TÉCNICA
+· El contador «3/8» arriba a la derecha, siempre visible. Es el motor de la retención.
+· Zoom suave (110%) sobre el campo exacto que se está llenando en cada paso.
+· Sin voz en off. Subtítulos quemados.
+· Que se vea el cursor moviéndose: da credibilidad de que es el sistema real.
+
+ERROR A EVITAR
+No expliques cada paso con texto largo. Dos o tres palabras por paso. El video muestra;
+el caption explica.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

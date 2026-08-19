@@ -1,0 +1,92 @@
+==============================================================================
+27 DE AGOSTO DE 2026 · JUEVES
+REEL · PILAR 4 · Gestión y números
+SENAL OBJETIVO: REPLAYS · revisiones
+==============================================================================
+
+TEMA: 38 días
+
+GANCHO (primera linea del caption / primer frame del reel):
+  38 días. Eso es lo que tarda en pagar una ARS en el ejemplo de nuestro sistema. ¿Y la tuya?
+
+POR QUE RETIENE:
+  Reel de 12 segundos con una sola idea. Corto a propósito: un reel breve visto tres veces vale más que uno largo visto una. El loop es exacto — el último frame repite el número del primero, así que el bucle cierra sin que se note y la mayoría lo ve dos veces sin darse cuenta.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+38 días. Eso es lo que tarda en pagar una ARS en el ejemplo de nuestro sistema. ¿Y la tuya?
+
+Treinta y ocho días entre que atiendes al paciente y que la aseguradora te paga. En ese tiempo ya pagaste la nómina, ya compraste los insumos y ya cubriste el alquiler.
+
+Ese número no es un dato curioso. Es tu flujo de caja completo.
+
+Y casi ningún centro lo conoce con precisión. Sabe que «las ARS tardan», pero no cuánto, ni cuál tarda más, ni cuánto hay por cobrar ahora mismo repartido entre cada una.
+
+El día que lo mides pasan tres cosas: priorizas el seguimiento de la que más debe, negocias condiciones con datos en la mano en vez de con quejas, y planificas el mes sabiendo qué entra y cuándo.
+
+¿Cuántos días tarda la tuya? Dilo con un número, nada más.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#GestiónHospitalaria #IndicadoresDeSalud #DirecciónMédica #AdministraciónHospitalaria #RepúblicaDominicana #SaludRD #MédicosRD #ClínicaPrivada #KPIs #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Días promedio de cobro a las ARS: el indicador de gestión que determina el flujo de caja de un centro de salud en República Dominicana.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 12 segundos · vertical 1080x1920 · texto sobre fondo de marca
+
+POR QUÉ 12 SEGUNDOS
+Instagram pondera watch time total más revisiones. Un reel de 12 segundos visto tres
+veces genera más señal que uno de 45 visto una vez y abandonado a la mitad. Este está
+construido para verse dos o tres veces seguidas sin que el espectador lo decida.
+
+0:00-0:02  FRAME 1 · El número «38» ocupando media pantalla, turquesa sobre navy.
+           Debajo: «días».
+0:02-0:05  Texto: «Es lo que tarda una ARS en pagarte.»
+0:05-0:08  Texto: «En esos 38 días ya pagaste la nómina.» → «Ya compraste los insumos.»
+           → «Ya pagaste el alquiler.» (tres líneas que se acumulan en pantalla)
+0:08-0:11  Texto grande: «Ese número es tu flujo de caja.»
+0:11-0:12  Vuelve el «38» gigante, idéntico al frame 1. LOOP.
+
+TÉCNICA
+· El loop tiene que ser invisible: mismo encuadre, mismo tamaño, mismo color en el
+  primer y el último frame. Si se nota el corte, se pierde el efecto.
+· Nada de transiciones. Cortes secos.
+· Sin música con letra. Un pulso bajo y sostenido.
+· El «38» en Sora 800, lo más grande que quepa sin tocar los bordes.
+
+VARIANTE PARA PROBAR (trial reel)
+Mismo video, otro frame 1: «¿Sabes cuántos días tarda tu ARS en pagarte?».
+Publicar como reel de prueba, comparar retención a 3 segundos y quedarse con el ganador.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

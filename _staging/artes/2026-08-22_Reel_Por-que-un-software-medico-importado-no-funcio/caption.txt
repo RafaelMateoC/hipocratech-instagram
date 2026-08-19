@@ -1,0 +1,99 @@
+==============================================================================
+22 DE AGOSTO DE 2026 · SÁBADO
+REEL · PILAR 5 · Marca y comunidad
+SENAL OBJETIVO: COMENTARIOS · conversación
+==============================================================================
+
+TEMA: Por qué un software médico importado no funciona aquí
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Un software importado no sabe qué es una ARS. Y tú se lo tienes que explicar todos los días.
+
+POR QUE RETIENE:
+  Opinión con la que la audiencia está de acuerdo pero que nadie ha dicho en voz alta. La lista de cosas que hay que 'explicarle' al software es reconocimiento puro: cada punto provoca un 'a mí me pasa'. Termina con una pregunta abierta y específica, que es lo que genera comentarios largos.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Un software importado no sabe qué es una ARS. Y tú se lo tienes que explicar todos los días.
+
+Le explicas que aquí la factura ya no es un papel, que la Ley 32-23 puso al país entero a emitir comprobantes electrónicos. Que hay que reportar el 606 y el 607. Que a los médicos se les retiene un 10% de honorarios y eso va en el IR-17. Que la nómina descuenta AFP, SFS e ISR. Que el paciente no tiene «seguro»: tiene una ARS, con su convenio, su porcentaje de cobertura, su tarifario negociado y sus días de pago.
+
+Y el software, en el mejor de los casos, te ofrece un campo de texto libre para que lo anotes.
+
+Ese campo de texto libre es la definición exacta de un sistema que no fue hecho para ti.
+
+Hipocratech no se adaptó a República Dominicana. Nació aquí. Los comprobantes electrónicos, los formatos fiscales, los descuentos de la TSS, los convenios de las ARS y el CIE-10 en español vienen dentro. No como parche: como parte del sistema.
+
+Y los catálogos los mantenemos nosotros. Nadie en tu clínica actualiza tablas.
+
+Ahora dime tú: ¿qué le has tenido que explicar a un sistema que debería haber sabido solo? Lo leo todo.
+
+hipocra.tech · Santo Domingo, RD
+
+#SaludRD #MédicosRD #RepúblicaDominicana #SantoDomingo #InnovaciónEnSalud #HealthTech #ComunidadMédica #ClínicaPrivada #HechoEnRD #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Por qué un software médico importado no sirve en República Dominicana: no conoce las ARS, la facturación electrónica e-CF, los formatos 606 y 607, el IR-17 ni los descuentos de la TSS.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 19 segundos · vertical 1080x1920 · texto sobre fondo de marca
+
+ESTRUCTURA DE RETENCIÓN
+Es un reel de opinión, no de producto. Funciona por reconocimiento: la audiencia asiente.
+La lista corre rápido y cada línea es un «a mí me pasa». El cierre es una pregunta
+concreta, no un «cuéntanos» genérico — por eso genera comentarios de verdad.
+
+0:00-0:03  FRAME 1 · Texto blanco sobre navy, entra de golpe:
+           «Un software importado no sabe qué es una ARS.»
+           → 0:02 aparece debajo, más pequeño: «Y tú se lo explicas todos los días.»
+0:03-0:13  LISTA RÁPIDA. Cada línea entra desde abajo, se queda 1.4 s y sale:
+           «Que la factura ya no es papel.»
+           «Que existe el 606. Y el 607.»
+           «Que al médico se le retiene un 10%.»
+           «Que la nómina descuenta AFP, SFS e ISR.»
+           «Que no tiene seguro: tiene una ARS.»
+           «Con su convenio. Su cobertura. Sus días de pago.»
+0:13-0:16  Pausa. Fondo limpio. Texto: «Y el sistema te da un campo de texto libre.»
+0:16-0:19  Texto final: «Nosotros nacimos aquí.» + logo
+
+TÉCNICA
+· Fondo navy de marca (#0E2A4A) con la retícula sutil. Texto en Sora 800, blanco.
+· Las palabras clave —ARS, 606, 607, IR-17, TSS— en turquesa (#4FD1C5).
+· Ritmo: la lista tiene que sentirse acumulativa, casi agobiante. Ese es el punto.
+· Música con tensión ascendente que corta en seco en el segundo 13. El silencio de la
+  pausa es lo que hace aterrizar la frase del campo de texto libre.
+
+ALTERNATIVA CON CÁMARA
+Si alguien del equipo se anima: grabar a cámara, plano medio, hablando directo.
+Los reels con cara humana generan más comentarios que los de solo texto. Mismo guion.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

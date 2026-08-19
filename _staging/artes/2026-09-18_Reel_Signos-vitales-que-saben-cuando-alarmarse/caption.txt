@@ -1,0 +1,98 @@
+==============================================================================
+18 DE SEPTIEMBRE DE 2026 · VIERNES
+REEL · PILAR 2 · Producto en acción
+SENAL OBJETIVO: WATCH TIME · retención
+==============================================================================
+
+TEMA: Signos vitales que saben cuándo alarmarse
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Escribes frecuencia cardiaca 130. ¿Es normal? Depende de la edad. Tu sistema, ¿lo sabe?
+
+POR QUE RETIENE:
+  Pregunta clínica en el primer segundo que el espectador responde mentalmente. Como la respuesta correcta es «depende», se queda a ver de qué depende. El momento de la alerta apareciendo es el clímax visual.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Escribes frecuencia cardiaca 130. ¿Es normal?
+
+Depende de la edad. En un lactante puede ser perfectamente normal. En un adulto de 55 años es una alarma.
+
+Ahora la pregunta que importa: tu sistema, ¿lo sabe? ¿O guarda el 130 tan tranquilo y sigue?
+
+La mayoría de los sistemas dan casillas. Escribes un número, se guarda, fin. El criterio queda entero en la cabeza de quien lo escribió — que a las 4 de la tarde, en la consulta 22 del día, tiene menos criterio disponible que en la primera.
+
+En Hipocratech los signos vitales conocen los rangos normales según la edad del paciente:
+
+— Frecuencia respiratoria, frecuencia cardiaca, temperatura y presión arterial, con alerta cuando el valor se sale del rango para esa edad
+— Peso en libras y kilos, talla en metros y en pies/pulgadas, convertidos solos
+— IMC calculado sin que nadie lo pida
+— Pulso, glicemia, perímetro cefálico y saturación en los mismos campos estructurados
+— Gráficos de tendencia de presión sistólica y glicemia entre consultas
+
+Esa última línea es la importante: la evolución del paciente crónico se ve, no se deduce.
+
+Prueba una cosa: pon un valor imposible en tu sistema actual y mira si te dice algo. Cuenta abajo qué pasó.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #ExpedienteElectrónico #HistoriaClínica #SistemaMédico #RepúblicaDominicana #SantoDomingo #ClínicaDigital #MédicosRD #HealthTech #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Signos vitales en Hipocratech con rangos normales por edad, alertas automáticas, cálculo de IMC y gráficos de tendencia de presión arterial y glicemia.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 23 segundos · vertical 1080x1920 · screen recording
+
+ESTRUCTURA DE RETENCIÓN
+Una pregunta clínica real en el segundo 0. El espectador médico responde mentalmente y
+se queda a comprobar si acertó. Como la respuesta es «depende», el reel gana el derecho
+a explicar. El plano de la alerta apareciendo es el clímax y hay que tratarlo como tal.
+
+0:00-0:04  FRAME 1 · Campo de frecuencia cardiaca con «130» escrito.
+           Texto: «Frecuencia cardiaca 130.» → «¿Es normal?»
+0:04-0:07  Texto: «Depende de la edad.» → «Tu sistema, ¿lo sabe?»
+0:07-0:12  Se escribe el valor fuera de rango y APARECE LA ALERTA.
+           Ralentizar a 0.7× ese medio segundo. Texto: «El nuestro sí.»
+0:12-0:16  Se llenan peso y talla. El IMC aparece solo, sin que nadie lo pida.
+           Texto: «Y calcula lo que se puede calcular.»
+0:16-0:21  Se abre el gráfico de tendencia de presión sistólica entre consultas.
+           Texto: «La evolución del crónico se ve.» → «No se deduce.»
+0:21-0:23  Logo + cierre.
+
+TÉCNICA
+· La alerta apareciendo es el «ajá» del video. Halo, ralentización y medio segundo de
+  respiro. Si ese plano no impacta, el reel no funciona.
+· El gráfico de tendencia tiene que dibujarse en pantalla, no aparecer hecho.
+· Sin voz en off. Subtítulos quemados.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

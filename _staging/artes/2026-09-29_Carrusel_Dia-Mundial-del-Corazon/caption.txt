@@ -1,0 +1,62 @@
+==============================================================================
+29 DE SEPTIEMBRE DE 2026 · MARTES
+CARRUSEL · PILAR 4 · Gestión y números
+SENAL OBJETIVO: SENDS · envíos por DM
+FECHA CLAVE: Día Mundial del Corazón (OMS)
+==============================================================================
+
+TEMA: Día Mundial del Corazón
+
+GANCHO (primera linea del caption / primer frame del reel):
+  ¿Ves la tendencia de tu paciente hipertenso, o solo el último valor que anotaste?
+
+POR QUE RETIENE:
+  Pregunta clínica que separa dos formas de trabajar. La lámina de comparación hace visible la diferencia entre un valor y una curva, que es un argumento que un médico entiende en dos segundos y quiere pasar a un colega.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+¿Ves la tendencia de tu paciente hipertenso, o solo el último valor que anotaste?
+
+Hoy es el Día Mundial del Corazón, y esa pregunta vale más que cualquier campaña.
+
+Un valor aislado te dice cómo está hoy. Una curva te dice hacia dónde va — y esa es la información que cambia una decisión terapéutica.
+
+En una historia clínica de papel la tendencia existe, pero está repartida en seis hojas de seis consultas distintas. Técnicamente la tienes. Prácticamente, nadie la reconstruye en los quince minutos que dura la consulta. Y lo que no se puede ver en quince minutos, no existe.
+
+Lo que hace posible verla:
+
+→ SIGNOS VITALES ESTRUCTURADOS — la presión no se escribe en un párrafo, se registra en un campo
+→ GRÁFICOS DE TENDENCIA — presión sistólica y glicemia entre consultas, en la misma pantalla
+→ RANGOS POR EDAD — el sistema avisa cuando un valor se sale de lo normal
+→ ANTECEDENTES CRUZADOS — cardiopatía e hipertensión en personal, padre, madre y hermanos
+→ FILTRO DE CRÓNICOS — el listado de pacientes se filtra por los que están en seguimiento
+
+Según la Organización Mundial de la Salud, la enfermedad cardiovascular es la principal causa de muerte en el mundo. El seguimiento del paciente crónico es la herramienta más poderosa que tiene un centro de atención primaria — y depende por completo de que la información sea visible en el momento de la consulta, no de que exista en algún lado.
+
+Compártelo con un colega de atención primaria.
+
+hipocra.tech
+
+#GestiónHospitalaria #IndicadoresDeSalud #DirecciónMédica #AdministraciónHospitalaria #RepúblicaDominicana #SaludRD #MédicosRD #ClínicaPrivada #KPIs #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Día Mundial del Corazón: seguimiento del paciente hipertenso con gráficos de tendencia de presión arterial y antecedentes cardiovasculares en la historia clínica.
+
+ARTES: 5 laminas. Publicar en orden lamina-01 ... lamina-05.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

@@ -1,0 +1,105 @@
+==============================================================================
+31 DE AGOSTO DE 2026 · LUNES
+REEL · PILAR 1 · Dolor y diagnóstico
+SENAL OBJETIVO: SENDS · envíos por DM
+==============================================================================
+
+TEMA: La historia clínica en Word
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Tu historia clínica en Word te va a fallar el día que más la necesites.
+
+POR QUE RETIENE:
+  Amenaza específica y diferida: no dice que Word sea malo hoy, dice que va a fallar en un momento futuro identificable. Eso obliga a quedarse a averiguar cuál es ese día. Los tres problemas escalan en gravedad y el tercero es legal, que es el que provoca el envío.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Tu historia clínica en Word te va a fallar el día que más la necesites.
+
+No hoy. Hoy funciona: abres la plantilla, escribes, guardas. Va a fallar tres días concretos.
+
+EL DÍA QUE NECESITES BUSCAR
+¿Cuántos pacientes con hipertensión atendiste este año? ¿Cuáles son tus cinco diagnósticos más frecuentes? En Word no hay respuesta. Hay que abrir archivos uno por uno, y nadie lo hace nunca. Esa información existe y no la tienes.
+
+EL DÍA QUE TENGAS QUE COBRAR COMPLETO
+Lo que escribiste en el documento no llega a la factura, ni a la reclamación de la ARS, ni al reporte. Alguien lo vuelve a escribir en otro lado — o no lo escribe, y ese procedimiento no se cobra.
+
+EL DÍA QUE ALGUIEN RECLAME
+¿Quién modificó este expediente? ¿Cuándo? ¿Qué decía antes de la modificación? Un archivo de Word no responde ninguna de esas tres preguntas. Y son exactamente las tres que te van a preguntar.
+
+La historia clínica no es un documento: es la base de datos de tu centro. Cuando se trata como documento, todo lo demás —la facturación, las reclamaciones, los reportes, tu defensa si algún día hace falta— se construye sobre arena.
+
+Etiqueta al colega que sigue usando plantillas de Word. No es un ataque, es un favor.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #GestiónClínica #ClínicaPrivada #ConsultorioMédico #RepúblicaDominicana #SantoDomingo #AdministraciónDeSalud #MédicosRD #SaludRD #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Tres problemas de llevar la historia clínica en documentos de Word: no se puede buscar, no alimenta la facturación ni las reclamaciones, y no tiene trazabilidad ni auditoría.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 25 segundos · vertical 1080x1920
+
+ESTRUCTURA DE RETENCIÓN
+El frame 1 no dice «Word es malo». Dice que va a fallar «el día que más la necesites»,
+sin decir cuál es ese día. Ese vacío es lo que retiene: hay que quedarse a averiguarlo.
+Los tres problemas escalan —operativo, económico, legal— y el tercero es el que dispara
+el envío, porque es el que da miedo.
+
+0:00-0:04  FRAME 1 · Visual: una página de Word en blanco, cursor parpadeando.
+           Texto: «Tu historia clínica en Word» → «te va a fallar el día que más la
+           necesites.» Los primeros 2 segundos sin música: solo el cursor.
+0:04-0:10  BLOQUE 1 · «El día que necesites buscar»
+           Visual: carpeta con decenas de .docx en scroll rápido e infinito.
+           Texto: «¿Cuántos hipertensos viste este año?» → «No hay respuesta.»
+0:10-0:16  BLOQUE 2 · «El día que tengas que cobrar completo»
+           Visual: el documento y, al lado, una factura sin ese cargo.
+           Texto: «Lo que escribiste no llega a la factura.»
+0:16-0:21  BLOQUE 3 · «El día que alguien reclame»
+           Texto, una línea cada 1.2 s: «¿Quién lo modificó?» «¿Cuándo?»
+           «¿Qué decía antes?» → «Word no responde ninguna.»
+0:21-0:25  Corte a la historia clínica de Hipocratech, con el buscador CIE-10 en acción.
+           Texto: «No es un documento. Es la base de datos de tu centro.»
+
+TÉCNICA
+· Los primeros dos segundos en silencio, con el cursor parpadeando, valen más que
+  cualquier efecto. El silencio en un feed lleno de audio es un patrón interrumpido.
+· El bloque 3 tiene que sentirse más lento y más pesado que los otros dos.
+· El corte final al sistema es el alivio. Que sea limpio, luminoso y rápido.
+
+POR QUÉ ESTE REEL BUSCA ENVÍOS
+Todo el mundo conoce a alguien que sigue en Word. El CTA no pide compartir en general:
+nombra a esa persona. «Etiqueta al colega que…» convierte una intención vaga en una
+acción concreta.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

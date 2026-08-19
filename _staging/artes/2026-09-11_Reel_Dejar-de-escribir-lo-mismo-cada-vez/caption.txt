@@ -1,0 +1,102 @@
+==============================================================================
+11 DE SEPTIEMBRE DE 2026 · VIERNES
+REEL · PILAR 2 · Producto en acción
+SENAL OBJETIVO: WATCH TIME · retención
+==============================================================================
+
+TEMA: Dejar de escribir lo mismo cada vez
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Faringitis. Hipertensión. Diabetes. Dolor abdominal.
+
+POR QUE RETIENE:
+  Satisfacción visual: un campo vacío que se llena solo es de los planos más retentivos que existen. Se repite tres veces con distintas plantillas, y esa repetición es lo que hace que el reel se vea completo y se reviese.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Faringitis. Hipertensión. Diabetes. Dolor abdominal.
+
+Si eres médico general ya sabes que esos cuatro cuadros son buena parte de tu semana. Y que cada vez escribes prácticamente lo mismo, con las variaciones del caso.
+
+Las plantillas de consulta existen para eso: un clic carga la estructura del cuadro y tú ajustas solo lo que este paciente tiene de particular.
+
+No se trata de escribir menos por escribir menos. Se trata de que el tiempo que se va redactando lo previsible es tiempo que no estás mirando al paciente. Y a la quinta consulta del día, lo previsible se escribe mal o directamente no se escribe — que es peor, porque un episodio sin registrar no existe para la factura, para la ARS ni para el próximo médico.
+
+Junto con las plantillas:
+— Catálogo CIE-10 con buscador por código o por descripción
+— Vademécum precargado para armar la receta con dosis, presentación, frecuencia y vía
+— Signos vitales con IMC y conversiones calculados solos
+— Examen por sistemas marcado normal o alterado en un clic
+
+Cada una de esas cuatro cosas le quita segundos a la consulta. Sumadas, le devuelven minutos al paciente.
+
+¿Cuántas veces escribiste «faringitis aguda» esta semana? Dilo en un número y te digo cuánto tiempo es al año.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #ExpedienteElectrónico #HistoriaClínica #SistemaMédico #RepúblicaDominicana #SantoDomingo #ClínicaDigital #MédicosRD #HealthTech #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Plantillas de consulta reutilizables en la historia clínica de Hipocratech, con buscador CIE-10 y vademécum precargado para agilizar el registro médico.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 25 segundos · vertical 1080x1920 · screen recording
+
+ESTRUCTURA DE RETENCIÓN
+El plano del campo llenándose solo es visualmente satisfactorio, casi hipnótico. Se
+repite tres veces con plantillas distintas y ese patrón es lo que hace que la gente
+lo vea entero y lo vuelva a ver.
+
+0:00-0:04  FRAME 1 · Texto sobre la historia clínica vacía:
+           «Faringitis. Hipertensión. Diabetes. Dolor abdominal.»
+           Debajo: «Buena parte de tu semana.»
+0:04-0:08  Campo de enfermedad actual vacío, cursor parpadeando.
+           Texto: «Cada vez escribes lo mismo.»
+0:08-0:12  CLIC en la plantilla «Faringitis». El texto se carga completo de golpe.
+           Texto: «O un clic.» ← este es el plano clave, dejarlo respirar.
+0:12-0:15  Repetir con «Control de hipertensión». Se carga.
+0:15-0:18  Repetir con «Control de diabetes». Se carga.
+0:18-0:21  Se ajustan dos detalles y se busca el CIE-10.
+           Texto: «Ajustas solo lo que este paciente tiene distinto.»
+0:21-0:25  Receta armada desde el vademécum. Texto: «Tu tiempo al paciente, no al formulario.»
+
+TÉCNICA
+· El momento del clic y el llenado tiene que verse nítido. Ralentizar a 0.8× ese
+  medio segundo y volver a velocidad normal.
+· Zoom al 115% sobre el campo mientras se llena.
+· Sin voz en off. Música con pulso, sin picos.
+
+VARIANTE PARA PROBAR (trial reel)
+Frame 1 alternativo: «¿Cuántas veces escribiste "faringitis aguda" esta semana?».
+La versión con pregunta suele retener mejor en audiencias médicas.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.

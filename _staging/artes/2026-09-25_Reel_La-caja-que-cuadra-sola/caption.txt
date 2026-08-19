@@ -1,0 +1,101 @@
+==============================================================================
+25 DE SEPTIEMBRE DE 2026 · VIERNES
+REEL · PILAR 2 · Producto en acción
+SENAL OBJETIVO: WATCH TIME · retención
+==============================================================================
+
+TEMA: La caja que cuadra sola
+
+GANCHO (primera linea del caption / primer frame del reel):
+  Si al cerrar el día la caja no cuadra, el problema no fue hoy.
+
+POR QUE RETIENE:
+  Acusación diferida: dice que el problema fue antes, sin decir cuándo. Hay que quedarse a saberlo. El plano del cierre de caja con el total cuadrando es la recompensa visual.
+
+------------------------------------------------------------------------------
+CAPTION · copiar desde la siguiente linea
+------------------------------------------------------------------------------
+
+Si al cerrar el día la caja no cuadra, el problema no fue hoy. Fue cada vez que alguien cobró sin registrar.
+
+El módulo de caja lleva el día completo, de la apertura al cierre:
+
+— Apertura con fondo inicial y hora
+— Cada cobro registrado con paciente, número de factura y método de pago
+— Salidas de caja con su justificación escrita
+— Resumen por método: efectivo, tarjeta y transferencia
+— Total en caja para el arqueo
+— Cierre del día en un botón
+
+Pero eso no es lo importante. Cualquier cuaderno hace una lista de cobros.
+
+Lo importante es que cada cobro nace ligado a una factura que ya existe, con su comprobante, su paciente y su origen. No hay forma de registrar un cobro huérfano. Cuando cierras el día, no estás sumando: estás confirmando algo que ya está cuadrado por construcción.
+
+Y ese es exactamente el hábito que la facturación electrónica premia. Un cobro sin factura detrás deja de ser un descuadre menor que se arregla mañana y pasa a ser un hueco en tu reporte de ventas del mes.
+
+Si tu caja descuadra más de una vez al mes, el problema no es de quien cobra. Mándale esto a quien pueda cambiarlo.
+
+hipocra.tech · WhatsApp (809) 670-5309
+
+#SoftwareMédico #ExpedienteElectrónico #HistoriaClínica #SistemaMédico #RepúblicaDominicana #SantoDomingo #ClínicaDigital #MédicosRD #HealthTech #Hipocratech
+
+------------------------------------------------------------------------------
+FIN DEL CAPTION
+------------------------------------------------------------------------------
+
+TEXTO ALTERNATIVO · pegar en Configuracion avanzada > Escribir texto alternativo:
+  Módulo de caja de Hipocratech: apertura con fondo inicial, registro de cobros por método de pago, salidas justificadas, arqueo y cierre del día.
+
+ARCHIVOS:
+  REEL.mp4            · EL VIDEO, listo para subir (1080x1920, 30 fps, H.264)
+  portada-reel.png    · portada para la cuadricula del perfil (1080x1350)
+  frame-01-gancho.png · primer frame (1080x1920)
+  frame-02-nudo.png   · frame del giro (1080x1920)
+  frame-03-cierre.png · frame final (1080x1920)
+
+SOBRE EL VIDEO
+  El MP4 esta terminado y se puede publicar tal cual. No lleva musica: ponle
+  audio desde la libreria de Instagram al subirlo (el audio propio de la app
+  ayuda al alcance y el silencio lo penaliza).
+  El guion de abajo documenta la estructura y sirve si prefieren regrabarlo
+  con capturas de pantalla en vivo del sistema.
+
+------------------------------------------------------------------------------
+GUION · 27 segundos · vertical 1080x1920 · screen recording
+
+ESTRUCTURA DE RETENCIÓN
+Acusación diferida en el primer frame: «el problema no fue hoy». No dice cuándo fue, y
+esa omisión retiene. La respuesta llega en el segundo 20, así que el video se ve entero.
+
+0:00-0:04  FRAME 1 · Pantalla de caja al cierre.
+           Texto: «Si la caja no cuadra,» → «el problema no fue hoy.»
+0:04-0:08  Apertura de caja con fondo inicial. Texto: «Apertura.»
+0:08-0:15  Se registran tres cobros con distinto método de pago. Cada uno se ve nacer
+           desde una factura existente. Texto: «Cada cobro nace de una factura que ya existe.»
+0:15-0:20  Resumen por método y total en caja.
+           Texto: «Efectivo. Tarjeta. Transferencia.»
+0:20-0:24  Botón de cierre. El total cuadra.
+           Texto: «El problema fue cada vez que alguien cobró sin registrar.»
+0:24-0:27  Texto: «Aquí no se puede.» + logo
+
+TÉCNICA
+· El plano del total cuadrando al cerrar es la recompensa. Que se vea el número
+  final en verde, grande, medio segundo.
+· Mostrar que el sistema no permite crear un cobro sin factura: intentarlo y que salga
+  el bloqueo. Ese plano vale más que toda la lista de funciones.
+
+BONUS
+La pantalla de control de secuencias de comprobantes da para un segundo reel de 15
+segundos por sí sola. El momento de la alerta de «secuencia por agotarse» es visual
+y urgente.
+
+------------------------------------------------------------------------------
+PROTOCOLO DE PUBLICACION
+------------------------------------------------------------------------------
+  1. Pegar el texto alternativo antes de publicar.
+  2. Verificar que el caption abre con el gancho, sin saludo.
+  3. Primeros 15 min: compartir a stories con sticker de encuesta o pregunta.
+  4. Primeros 60 min: responder TODOS los comentarios, con una pregunta.
+  5. Primeras 2 horas: enviar por DM a 5-10 contactos del sector a quienes les sirva.
+  6. Al dia siguiente: anotar retencion, guardados, envios y alcance de no-seguidores
+     en la hoja 'Medicion semanal' del Excel.
