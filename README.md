@@ -37,6 +37,7 @@ herramientas/construir_plan.py  agenda .xlsx + carpetas  →  plan.json
 herramientas/preparar_medios.py PNG → JPEG y frames → MP4
 herramientas/revisar_token.py   avisa si el token está por caducar
 herramientas/obtener_cuenta_id.py  averigua tu IG_CUENTA_ID desde el token
+herramientas/obtener_token_permanente.py  token de pagina que no caduca
 
 publicador/api.py               cliente de la API de Instagram
 publicador/publicar.py          publica lo que toca hoy
@@ -73,13 +74,30 @@ Necesitas dos valores:
   Te imprime el ID de cada cuenta de Instagram vinculada a tus páginas. El
   token solo se usa para esas dos consultas: no se guarda en ningún sitio.
 
-> **Importante sobre el token.** El token largo normal **caduca a los 60 días**
-> y tu campaña dura 104: se apagaría a mediados de octubre, en silencio, justo
-> antes del pico de facturación electrónica del 15 de noviembre.
+> **Importante sobre el token.** Un token largo normal **caduca a los 60 días**
+> y la campaña dura 104: se apagaría a mediados de octubre, en silencio, justo
+> antes del 15 de noviembre.
 >
-> Genera un **token de System User** desde Meta Business Suite
-> (*Configuración del negocio → Usuarios → Usuarios del sistema*). Ese no
-> caduca nunca y es el único que aguanta los 104 días sin mantenimiento.
+> El usuario del sistema resuelve eso, pero exige el rol **Desarrollador** en el
+> negocio; sin él Meta responde *«Rol de desarrollador insuficiente»*.
+
+Hay una vía que no necesita usuario del sistema ni ese rol. Un **token de página
+derivado de un token largo de usuario no caduca nunca**. Se obtiene así:
+
+1. En el [Explorador de la API de Graph](https://developers.facebook.com/tools/explorer/),
+   elige tu app, marca `instagram_basic`, `instagram_content_publish` y
+   `pages_read_engagement`, y pulsa *Generar token de acceso*. Ese token dura
+   una hora: da igual, es la materia prima.
+2. Copia el **ID de la app** y la **clave secreta** desde
+   *Configuración → Básica* en el panel de la app.
+3. Ejecuta desde esta carpeta:
+
+   ```bash
+   IG_APP_ID=... IG_APP_SECRET=... IG_TOKEN_CORTO=... python herramientas/obtener_token_permanente.py
+   ```
+
+Te imprime el `IG_TOKEN` definitivo y el `IG_CUENTA_ID`, y comprueba contra
+Meta que el token efectivamente no tenga fecha de caducidad.
 
 En GitHub, en el repositorio: **Settings → Secrets and variables → Actions**
 
