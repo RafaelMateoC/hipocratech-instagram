@@ -186,9 +186,19 @@ def main():
         return 78  # sin material: ni exito ni fallo tecnico
 
     estado = cargar_estado()
-    if fecha in estado and estado[fecha].get("media_id"):
-        print(f"\nYa se publico el {estado[fecha]['publicado_en']} "
-              f"(media {estado[fecha]['media_id']}). No se repite.")
+    ya = estado.get(fecha, {})
+    # Reintento de historia: el feed ya salio pero su historia no. Sirve para
+    # los dias publicados antes de que existieran las historias, y como
+    # segunda oportunidad si una historia falla.
+    pendiente = bool(ya.get('media_id')) and not ya.get('historia_id')
+    solo_historia = os.environ.get('SOLO_HISTORIA') == '1' and pendiente
+
+    if ya.get('media_id') and not solo_historia:
+        print()
+        print(f"Ya se publico el {ya['publicado_en']} "
+              f"(media {ya['media_id']}). No se repite.")
+        if pendiente:
+            print('Su historia sigue pendiente: relanza con SOLO_HISTORIA=1.')
         return 0
 
     # El cliente se crea tambien al simular: sirve para comprobar el token sin
@@ -208,6 +218,22 @@ def main():
                 return 1
     elif simular:
         print("Sin credenciales: solo se verifican los medios.")
+
+    if solo_historia:
+        print()
+        print(f"Solo historia · el feed ya salio ({ya['media_id']})")
+        if simular:
+            print('SIMULACION · no se llama a la API')
+            return 0
+        try:
+            historia_id = compartir_historia(ig, item, base)
+        except ErrorInstagram as e:
+            print(f'  la historia no salio · {e}')
+            return 1
+        estado[fecha]['historia_id'] = historia_id
+        guardar_estado(estado)
+        print(f'  historia publicada · {historia_id}')
+        return 0
 
     try:
         media_id, permalink = publicar_item(ig, item, base, simular)
