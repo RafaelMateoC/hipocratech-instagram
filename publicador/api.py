@@ -11,7 +11,16 @@ import urllib.parse
 import urllib.request
 
 VERSION = "v25.0"
-BASE = "https://graph.facebook.com"
+
+# Hay dos flujos de autenticacion y cada uno vive en su host. Los tokens de
+# Instagram Login empiezan por "IG" y solo responden en graph.instagram.com;
+# los de Facebook Login empiezan por "EAA" y van a graph.facebook.com.
+HOST_INSTAGRAM = "https://graph.instagram.com"
+HOST_FACEBOOK = "https://graph.facebook.com"
+
+
+def host_para(token):
+    return HOST_INSTAGRAM if token.startswith("IG") else HOST_FACEBOOK
 
 
 class ErrorInstagram(RuntimeError):
@@ -24,11 +33,16 @@ class Instagram:
         self.token = token
         self.version = version
         self.reintentos = reintentos
+        self.base = host_para(token)
+
+    @property
+    def flujo(self):
+        return "Instagram Login" if self.base == HOST_INSTAGRAM else "Facebook Login"
 
     # -- transporte ---------------------------------------------------------
 
     def _pedir(self, metodo, ruta, **params):
-        url = f"{BASE}/{self.version}/{ruta}"
+        url = f"{self.base}/{self.version}/{ruta}"
         params["access_token"] = self.token
         datos = urllib.parse.urlencode(params).encode()
 

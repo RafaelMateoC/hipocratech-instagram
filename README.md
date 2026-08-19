@@ -81,6 +81,24 @@ Necesitas dos valores:
 > El usuario del sistema resuelve eso, pero exige el rol **Desarrollador** en el
 > negocio; sin él Meta responde *«Rol de desarrollador insuficiente»*.
 
+### Los dos tipos de token
+
+Meta tiene dos flujos y el publicador acepta ambos: detecta cuál es por el
+prefijo del token y habla con el host que corresponde.
+
+| Prefijo | Flujo | Host | Requiere |
+|---|---|---|---|
+| `IGA…` | Instagram Login | `graph.instagram.com` | cuenta profesional |
+| `EAA…` | Facebook Login | `graph.facebook.com` | cuenta vinculada a una página |
+
+Con `IGA…` los permisos son `instagram_business_basic` e
+`instagram_business_content_publish`. Con `EAA…` son `instagram_basic`,
+`instagram_content_publish` y `pages_read_engagement`.
+
+Si te equivocas de host, Meta responde con un error de token inválido aunque el
+token esté perfectamente bien. Por eso conviene dejar que el publicador lo
+resuelva solo.
+
 Hay una vía que no necesita usuario del sistema ni ese rol. Un **token de página
 derivado de un token largo de usuario no caduca nunca**. Se obtiene así:
 

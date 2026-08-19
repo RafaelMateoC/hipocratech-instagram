@@ -167,6 +167,7 @@ def main():
 
     ig = Instagram(cuenta, token) if not simular else None
     if ig:
+        print(f"Acceso  : {ig.flujo} ({ig.base})")
         try:
             usado, total = ig.limite()
             print(f"Cuota   : {usado}/{total} publicaciones en 24h")
