@@ -36,6 +36,7 @@ contenido/                     material fuente (no se sube al repo)
 herramientas/construir_plan.py  agenda .xlsx + carpetas  →  plan.json
 herramientas/preparar_medios.py PNG → JPEG y frames → MP4
 herramientas/revisar_token.py   avisa si el token está por caducar
+herramientas/obtener_cuenta_id.py  averigua tu IG_CUENTA_ID desde el token
 
 publicador/api.py               cliente de la API de Instagram
 publicador/publicar.py          publica lo que toca hoy
@@ -61,8 +62,16 @@ publicador/publicar.py          publica lo que toca hoy
 
 Necesitas dos valores:
 
-- `IG_CUENTA_ID` — el ID numérico de tu cuenta de Instagram.
 - `IG_TOKEN` — el token de acceso.
+- `IG_CUENTA_ID` — el ID numérico de tu cuenta de Instagram. No lo busques a
+  mano; con el token ya en tu poder, ejecuta desde esta carpeta:
+
+  ```bash
+  IG_TOKEN=tu_token python herramientas/obtener_cuenta_id.py
+  ```
+
+  Te imprime el ID de cada cuenta de Instagram vinculada a tus páginas. El
+  token solo se usa para esas dos consultas: no se guarda en ningún sitio.
 
 > **Importante sobre el token.** El token largo normal **caduca a los 60 días**
 > y tu campaña dura 104: se apagaría a mediados de octubre, en silencio, justo
