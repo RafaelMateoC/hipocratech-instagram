@@ -59,15 +59,20 @@ jobs:
           exit $codigo
 
       - name: Guardar el registro de publicacion
-        if: steps.publicar.outputs.codigo == '0'
+        # Al simular no se publica nada, asi que no hay registro que guardar.
+        if: steps.publicar.outputs.codigo == '0' && inputs.simular != true
         run: |
-          if git diff --quiet estado.json 2>/dev/null; then
+          if [ ! -f estado.json ]; then
+            echo "Todavia no hay estado.json"
+            exit 0
+          fi
+          git add estado.json
+          if git diff --cached --quiet; then
             echo "Sin cambios en estado.json"
             exit 0
           fi
           git config user.name  "publicador-hipocratech"
           git config user.email "actions@github.com"
-          git add estado.json
           git commit -m "Publicado $(date -u +%Y-%m-%d)"
           git push
 
