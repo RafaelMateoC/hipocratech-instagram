@@ -9,3 +9,5 @@ contenido/
 
 __pycache__/
 *.pyc
+_staging/
+v2/
