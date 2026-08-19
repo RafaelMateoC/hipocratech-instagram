@@ -12,7 +12,6 @@ El arte del feed es 1080x1350 y la historia es 1080x1920, asi que la lamina se
 centra sobre un fondo del color de la propia pieza.
 """
 import json
-import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -86,8 +85,10 @@ def main():
         destino.parent.mkdir(parents=True, exist_ok=True)
 
         if item["formato"] == "reel":
-            # La historia es el reel mismo, con el audio que ya lleva.
-            shutil.copyfile(RAIZ / item["medios"][0], destino)
+            # La historia es el reel mismo: el publicador apunta directo a su
+            # video en vez de guardar una copia identica al lado.
+            print(f"  -- {item['fecha']} · el reel se comparte tal cual")
+            continue
         else:
             if item["formato"] == "carrusel":
                 origen = sorted(carpeta.glob("lamina-*.png"))[0]

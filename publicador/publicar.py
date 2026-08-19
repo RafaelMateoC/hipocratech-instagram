@@ -101,7 +101,8 @@ def publicar_item(ig, item, base, simular):
             print(f"    - {u}")
         if portada:
             print(f"    portada: {portada}")
-        historia = url_de(base, f"medios/{item['carpeta']}/historia.mp4")
+        rel_h = item["medios"][0] if item["formato"] == "reel" else f"medios/{item['carpeta']}/historia.mp4"
+        historia = url_de(base, rel_h)
         pro_h, _ = verificar_medios([historia])
         print(f"  historia  : {'accesible' if not pro_h else 'NO ACCESIBLE'}")
         print(f"    - {historia}")
@@ -135,7 +136,8 @@ def compartir_historia(ig, item, base, log=print):
     Si esto falla no se toca el resultado del feed: la publicacion principal ya
     esta arriba y no se va a repetir por un fallo de la historia.
     """
-    rel = f"medios/{item['carpeta']}/historia.mp4"
+    # En los reels la historia es el mismo video; en el resto, el de 6 segundos.
+    rel = item["medios"][0] if item["formato"] == "reel" else f"medios/{item['carpeta']}/historia.mp4"
     url = url_de(base, rel)
 
     problemas, avisos = verificar_medios([url])
