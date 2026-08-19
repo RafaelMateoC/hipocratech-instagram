@@ -1,0 +1,5 @@
+# Solo para regenerar plan.json y los medios desde tu maquina.
+# El publicador en si no necesita dependencias: usa la libreria estandar.
+openpyxl>=3.1
+pillow>=10.0
+imageio-ffmpeg>=0.5

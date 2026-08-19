@@ -1,0 +1,134 @@
+# Hipocratech · Publicador automático de Instagram
+
+Publica una pieza al día, sola, a las **7:00 PM hora de República Dominicana**,
+siguiendo la agenda del 19 de agosto al 30 de noviembre de 2026.
+
+---
+
+## Estado real del material
+
+| | |
+|---|---|
+| Días en la agenda | **104** (19 ago → 30 nov) |
+| Con arte producida | **43** (19 ago → 30 sep) |
+| Publicables automáticamente hoy | **43** — 21 carruseles, 21 reels, 1 post único |
+| Sin arte | **61** (todo octubre y noviembre) |
+
+Los 21 reels **no traían video**: solo los frames PNG y el guion. Los MP4 se
+generaron desde esos frames respetando la duración y los cortes que define cada
+guion. Son un sustituto funcional, no el reel que el guion describe — varios
+piden *screen recordings* del producto que no existen como material.
+
+Octubre y noviembre están marcados «✕ no producido» en la propia agenda. Esos
+61 días se publicarán solos en cuanto exista el arte: basta con dejar la carpeta
+con el mismo formato y volver a construir el plan.
+
+---
+
+## Qué hace cada pieza
+
+```
+plan.json                      los 104 días normalizados: caption, alt text y medios
+estado.json                    qué se publicó y cuándo (evita republicar)
+medios/                        JPEG y MP4 servidos públicamente a Instagram
+contenido/                     material fuente (no se sube al repo)
+
+herramientas/construir_plan.py  agenda .xlsx + carpetas  →  plan.json
+herramientas/preparar_medios.py PNG → JPEG y frames → MP4
+herramientas/revisar_token.py   avisa si el token está por caducar
+
+publicador/api.py               cliente de la API de Instagram
+publicador/publicar.py          publica lo que toca hoy
+
+.github/workflows/publicar.yml  el cron diario
+```
+
+---
+
+## Puesta en marcha
+
+### 1. Requisitos de la cuenta
+
+- Cuenta de Instagram **Professional** (Business o Creator) vinculada a una
+  página de Facebook.
+- Una app en [developers.facebook.com](https://developers.facebook.com) con el
+  producto **Instagram** añadido.
+- Permisos: `instagram_basic`, `instagram_content_publish`, `pages_read_engagement`.
+
+### 2. Credenciales
+
+**Estas las generas y las pegas tú. Yo no las manejo ni deben pasar por el chat.**
+
+Necesitas dos valores:
+
+- `IG_CUENTA_ID` — el ID numérico de tu cuenta de Instagram.
+- `IG_TOKEN` — el token de acceso.
+
+> **Importante sobre el token.** El token largo normal **caduca a los 60 días**
+> y tu campaña dura 104: se apagaría a mediados de octubre, en silencio, justo
+> antes del pico de facturación electrónica del 15 de noviembre.
+>
+> Genera un **token de System User** desde Meta Business Suite
+> (*Configuración del negocio → Usuarios → Usuarios del sistema*). Ese no
+> caduca nunca y es el único que aguanta los 104 días sin mantenimiento.
+
+En GitHub, en el repositorio: **Settings → Secrets and variables → Actions**
+
+| Tipo | Nombre | Valor |
+|---|---|---|
+| Secret | `IG_CUENTA_ID` | tu ID de cuenta |
+| Secret | `IG_TOKEN` | tu token |
+| Secret | `IG_APP_ID` | *(opcional)* para el aviso de caducidad |
+| Secret | `IG_APP_SECRET` | *(opcional)* para el aviso de caducidad |
+| Variable | `URL_MEDIOS` | `https://raw.githubusercontent.com/USUARIO/REPO/main` |
+
+### 3. Primera prueba, sin publicar nada
+
+En la pestaña **Actions → Publicar en Instagram → Run workflow**, deja
+`simular` en `true` y pon una fecha. Verifica que las URLs de los medios
+salgan accesibles. Cuando eso pase, ya puedes desmarcar `simular`.
+
+---
+
+## Uso diario
+
+No hay uso diario: corre solo. Lo que sí queda en tus manos es el protocolo que
+la propia estrategia define, y que ninguna API puede hacer por ti:
+
+- **primeros 15 min** — compartir a stories con encuesta o pregunta
+- **primeros 60 min** — responder todos los comentarios, con una pregunta
+- **primeras 2 horas** — enviar por DM a 5-10 contactos del sector
+
+El resumen de cada ejecución en Actions te recuerda los tres puntos.
+
+---
+
+## Cuando produzcas el arte de octubre y noviembre
+
+1. Crea la carpeta en `contenido/` con el patrón `AAAA-MM-DD_Formato_Tema`.
+2. Dentro: las artes (`lamina-01.png`… para carrusel, `post.png` para imagen,
+   `frame-01/02/03` + `portada-reel.png` para reel) y el `caption.txt` con el
+   mismo formato que las 43 existentes.
+3. Ejecuta:
+
+```bash
+python herramientas/construir_plan.py && python herramientas/preparar_medios.py
+```
+
+4. Haz commit de `plan.json` y de `medios/`.
+
+---
+
+## Notas técnicas
+
+- Instagram **solo acepta JPEG** por `image_url`; por eso las PNG se convierten.
+- La proporción del arte debe quedar entre 4:5 y 1.91:1. Las 1080×1350 dan
+  exactamente 4:5, el límite del rango: no las recortes más.
+- Límite de la API: 100 publicaciones por 24 horas. Aquí se usa 1.
+- Antes de crear el contenedor, el publicador **verifica que Instagram pueda
+  descargar el medio**. Si la URL no responde, falla ahí y no a medias.
+- Si un día ya se publicó, no se repite aunque el workflow corra dos veces.
+- El cron de GitHub puede retrasarse algunos minutos bajo carga. No es una hora
+  exacta.
+- Versión de la API: **v25.0**. Cada versión vive unos dos años; conviene subirla
+  una vez al año en `publicador/api.py`.

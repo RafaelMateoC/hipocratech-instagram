@@ -1,0 +1,11 @@
+# Material interno: no va al repo publico.
+*.xlsx
+*.pdf
+*.zip
+contenido/
+
+# Credenciales
+.env
+
+__pycache__/
+*.pyc
