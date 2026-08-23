@@ -11,3 +11,4 @@ __pycache__/
 *.pyc
 _staging/
 v2/
+_update/

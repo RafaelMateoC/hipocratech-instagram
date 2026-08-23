@@ -73,31 +73,26 @@ publicador/publicar.py          publica lo que toca hoy
 
 ### La música
 
-Los reels llevan un fondo de audio incrustado en el MP4: dos senoidales graves
-con tremolo, filtradas y normalizadas a −20 LUFS. Un pulso bajo y sostenido,
-sin melodía ni letra, generado con `herramientas/poner_audio.py`. No es una
-pista con licencia de nadie — se sintetiza.
+Cada reel trae **techno original compuesto para esta cuenta**, sin derechos de
+terceros, ya incrustado en el MP4 a −14 dB. Cinco ambientes según el pilar:
 
-Cinco guiones marcan el segundo exacto en que la música entra o sale, y se
-respeta:
+| Ambiente | BPM | Para |
+|---|---|---|
+| claro | 126 | demostración de producto |
+| tenso | 130 | el pilar de dolor |
+| impacto | 124 | los reels de una sola cifra |
+| calmo | 122 | marca y opinión |
+| urgente | 134 | cumplimiento y facturación electrónica |
 
-| Fecha | Lo que pide el guion |
-|---|---|
-| 22 ago | corta en seco en el segundo 13 |
-| 31 ago | los primeros dos segundos en silencio |
-| 14 sep | nada de música los primeros 7 segundos |
-| 28 sep | corta en el segundo 19 |
-| **19 sep** | **mudo entero** — «es el chiste del reel y necesita silencio» |
+No hay nada que hacer: los videos se publican tal cual.
 
-Para cambiar la pista por una tuya:
-
-```bash
-python herramientas/poner_audio.py --pista audio/tu-pista.mp3
-```
+> Hubo una versión anterior en la que los reels llegaron mudos y se les puso un
+> pulso sintetizado con `poner_audio.py`. Esa herramienta se eliminó al llegar
+> los MP4 con música propia — si se ejecutara ahora **reemplazaría el techno**
+> por el pulso, porque descartaba la pista original del video.
 
 **Los carruseles del feed no pueden llevar música.** La API no lo permite para
-publicaciones de imagen — solo se puede en la app, a mano. Lo que sí lleva
-audio es la historia de ese día, que es un video.
+publicaciones de imagen; eso solo se hace a mano en la app.
 
 ### Las historias van a mano, y no es opcional
 
